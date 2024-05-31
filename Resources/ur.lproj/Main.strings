@@ -1,0 +1,510 @@
+
+/* Class = "UILabel"; text = "Password:"; ObjectID = "0A8-cq-19d"; */
+"0A8-cq-19d.text" = "پاس ورڈ:";
+
+/* Class = "UILabel"; text = "Newyork"; ObjectID = "0Td-Di-GEk"; */
+"0Td-Di-GEk.text" = "نیویارک";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "1MW-aH-gpB"; */
+"1MW-aH-gpB.text" = "اطلاعات۔";
+
+/* Class = "UILabel"; text = "FAVORITE"; ObjectID = "1j6-cw-sek"; */
+"1j6-cw-sek.text" = "پسندیدہ";
+
+/* Class = "UIButton"; normalTitle = "Agree & Continue"; ObjectID = "1zM-eM-hZc"; */
+"1zM-eM-hZc.normalTitle" = "متفق اور جاری رکھیں";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "2FG-A8-hFe"; */
+"2FG-A8-hFe.text" = "ورژن 1.5";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "37z-kD-62a"; */
+"37z-kD-62a.text" = "Label";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "3FD-qg-Wxb"; */
+"3FD-qg-Wxb.text" = "ورژن 1.5";
+
+/* Class = "UILabel"; text = "BUY PREMIUM"; ObjectID = "3om-XN-0NA"; */
+"3om-XN-0NA.text" = "پریمیم خریدیں۔";
+
+/* Class = "UITextField"; placeholder = "PASSWORD"; ObjectID = "4Cv-Pq-OuI"; */
+"4Cv-Pq-OuI.placeholder" = "پاس ورڈ";
+
+/* Class = "UIButton"; normalTitle = "Contact Via Facebook"; ObjectID = "4Jk-vM-kU8"; */
+"4Jk-vM-kU8.normalTitle" = "فیس بک کے ذریعے رابطہ کریں۔";
+
+/* Class = "UILabel"; text = "Mb/s"; ObjectID = "4ca-R9-naK"; */
+"4ca-R9-naK.text" = "Mb/s";
+
+/* Class = "UILabel"; text = "Signup"; ObjectID = "4dH-yB-Boe"; */
+"4dH-yB-Boe.text" = "سائن اپ";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "54m-13-GUY"; */
+"54m-13-GUY.title" = "ہو گیا";
+
+/* Class = "UILabel"; text = "N.B: Amount will be charged in BDT. 1 USD = 85 BDT (Approximately) \nDo Not need Mobile Number if you don't have Bangladesh Number"; ObjectID = "5Ge-he-2T9"; */
+"5Ge-he-2T9.text" = "N.B: رقم BDT میں وصول کی جائے گی۔ 1 USD = 85 BDT (تقریبا)) Mobile n اگر آپ کے پاس بنگلہ دیش نمبر نہیں ہے تو موبائل نمبر کی ضرورت نہیں ہے۔";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "6Ju-Ip-KJc"; */
+"6Ju-Ip-KJc.placeholder" = "ای میل۔";
+
+/* Class = "UILabel"; text = "Bangladesh"; ObjectID = "6ld-7B-X7W"; */
+"6ld-7B-X7W.text" = "بنگلہ دیش";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "7Da-J9-TRh"; */
+"7Da-J9-TRh.text" = "ہمارے بارے میں";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "8SO-Ak-cxh"; */
+"8SO-Ak-cxh.text" = "عنوان۔";
+
+/* Class = "UILabel"; text = "VPN IS OFF"; ObjectID = "9X0-XG-tFp"; */
+"9X0-XG-tFp.text" = "وی پی این بند ہے";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "AVR-OK-qk1"; */
+"AVR-OK-qk1.normalTitle" = "لاگ ان کریں";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Aj8-uc-jph"; */
+"Aj8-uc-jph.text" = "لیبل";
+
+/* Class = "UIButton"; normalTitle = "Press to Connect"; ObjectID = "BVI-2j-AYH"; */
+"BVI-2j-AYH.normalTitle" = "کنیکٹ کرنے کے لیے دبائیں۔";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Bib-R6-I3O"; */
+"Bib-R6-I3O.placeholder" = "ای میل۔";
+
+/* Class = "UILabel"; text = "Notification"; ObjectID = "C48-Qg-1ZZ"; */
+"C48-Qg-1ZZ.text" = "نوٹیفکیشن";
+
+/* Class = "UIButton"; normalTitle = "Disclaimer"; ObjectID = "D7M-MD-5zp"; */
+"D7M-MD-5zp.normalTitle" = "دستبرداری";
+
+/* Class = "UILabel"; text = "Download Symlex Call"; ObjectID = "DQM-E3-Z98"; */
+"DQM-E3-Z98.text" = "سیملیکس کال ڈاؤن لوڈ کریں۔";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "E9o-Pn-cKe"; */
+"E9o-Pn-cKe.text" = "عنوان۔";
+
+/* Class = "UILabel"; text = "Fastest Server"; ObjectID = "Fx5-pf-qaM"; */
+"Fx5-pf-qaM.text" = "تیز ترین سرور۔";
+
+/* Class = "UIButton"; normalTitle = "Send Email"; ObjectID = "Gtu-Lo-Wui"; */
+"Gtu-Lo-Wui.normalTitle" = "ای میل بھیجیں";
+
+/* Class = "UILabel"; text = "Version"; ObjectID = "H6N-lM-sDw"; */
+"H6N-lM-sDw.text" = "ورژن";
+
+/* Class = "UITextField"; placeholder = "Search Server"; ObjectID = "HBk-Ix-dmk"; */
+"HBk-Ix-dmk.placeholder" = "سرچ سرور۔";
+
+/* Class = "UILabel"; text = "User Name:"; ObjectID = "Hpf-BA-FmT"; */
+"Hpf-BA-FmT.text" = "صارف کا نام:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ILC-gJ-fSl"; */
+"ILC-gJ-fSl.text" = "لیبل";
+
+/* Class = "UILabel"; text = "Premium Purchase"; ObjectID = "J8P-3m-H0C"; */
+"J8P-3m-H0C.text" = "پریمیم خریداری۔";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "Jk4-Nq-ZUt"; */
+"Jk4-Nq-ZUt.text" = "ترتیبات";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "K0q-SR-pAm"; */
+"K0q-SR-pAm.title" = "آئٹم";
+
+/* Class = "UILabel"; text = "Mb/s"; ObjectID = "K1q-6v-gKG"; */
+"K1q-6v-gKG.text" = "Mb/s";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "K7V-WE-y8m"; */
+"K7V-WE-y8m.text" = "ورژن 1.5";
+
+/* Class = "UILabel"; text = "Expiry 10 days"; ObjectID = "L7b-pC-3vC"; */
+"L7b-pC-3vC.text" = "ختم 10 دن";
+
+/* Class = "UILabel"; text = "Test1234"; ObjectID = "LSO-0b-Pn2"; */
+"LSO-0b-Pn2.text" = "Test1234";
+
+/* Class = "UILabel"; text = "ALL"; ObjectID = "LTr-Ty-j1O"; */
+"LTr-Ty-j1O.text" = "تمام";
+
+/* Class = "UILabel"; text = "Use the web securely even if your VPN Connection drops! Turn always-on vpn from settings"; ObjectID = "MTP-W6-SV6"; */
+"MTP-W6-SV6.text" = "ویب کو محفوظ طریقے سے استعمال کریں یہاں تک کہ اگر آپ کا VPN کنکشن ختم ہو جائے! ترتیبات سے وی پی این کو ہمیشہ آن کریں۔";
+
+/* Class = "UIButton"; normalTitle = "Get Support"; ObjectID = "MYD-Zb-FJY"; */
+"MYD-Zb-FJY.normalTitle" = "مدد حاصل کریں";
+
+/* Class = "UILabel"; text = "Bangladesh"; ObjectID = "OCu-AL-CAP"; */
+"OCu-AL-CAP.text" = "بنگلہ دیش";
+
+/* Class = "UILabel"; text = "New User?"; ObjectID = "OP1-Ef-aY0"; */
+"OP1-Ef-aY0.text" = "نیا صارف؟";
+
+/* Class = "UILabel"; text = "Account Status: "; ObjectID = "OTY-pZ-MnX"; */
+"OTY-pZ-MnX.text" = "اکاؤنٹ کی حالت:";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "PKG-v4-JrS"; */
+"PKG-v4-JrS.normalTitle" = "پاسورڈ بھول گے؟";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Qbc-zn-kng"; */
+"Qbc-zn-kng.text" = "لیبل";
+
+/* Class = "UILabel"; text = "Ping 99/ms"; ObjectID = "Qog-2I-rvh"; */
+"Qog-2I-rvh.text" = "پنگ 99/ms";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "RC7-GP-uIW"; */
+"RC7-GP-uIW.text" = "ورژن 1.5";
+
+/* Class = "UILabel"; text = "Please select a package"; ObjectID = "T8Q-0E-yZW"; */
+"T8Q-0E-yZW.text" = "براہ کرم ایک پیکیج منتخب کریں۔";
+
+/* Class = "UILabel"; text = "Kill Switch"; ObjectID = "U7H-ZN-aLh"; */
+"U7H-ZN-aLh.text" = "ہمیشہ پر وی پی این";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "UBK-Xc-vkp"; */
+"UBK-Xc-vkp.normalTitle" = "جمع کرائیں";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "UHv-cC-wrl"; */
+"UHv-cC-wrl.text" = "ورژن 1.5";
+
+/* Class = "UILabel"; text = "Ms"; ObjectID = "Uct-Pj-963"; */
+"Uct-Pj-963.text" = "Ms";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "VQz-mL-eYd"; */
+"VQz-mL-eYd.normalTitle" = "رازداری کی پالیسی";
+
+/* Class = "UILabel"; text = "Security and privacy alerts, tips, offers"; ObjectID = "XLo-an-pYb"; */
+"XLo-an-pYb.text" = "سیکیورٹی اور پرائیویسی الرٹس ، ٹپس ، آفرز۔";
+
+/* Class = "UIButton"; normalTitle = "Signup Now"; ObjectID = "Y99-5w-bnt"; */
+"Y99-5w-bnt.normalTitle" = "ابھی سائن اپ کریں";
+
+/* Class = "UILabel"; text = "Check for updates"; ObjectID = "Ycg-05-g31"; */
+"Ycg-05-g31.text" = "اپ ڈیٹ کے لیے چیک کریں";
+
+/* Class = "UINavigationItem"; title = "Signup"; ObjectID = "ZHc-04-Egh"; */
+"ZHc-04-Egh.title" = "سائن اپ";
+
+/* Class = "UILabel"; text = "Rate Us"; ObjectID = "aV6-EA-6ad"; */
+"aV6-EA-6ad.text" = "ہمیں درجہ دیں";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "aZ3-8T-Go6"; */
+"aZ3-8T-Go6.title" = "ہو گیا";
+
+/* Class = "UILabel"; text = "Servers"; ObjectID = "b9w-4x-oAM"; */
+"b9w-4x-oAM.text" = "سرورز";
+
+/* Class = "UIButton"; normalTitle = "Terms of Service"; ObjectID = "cCp-P3-Koi"; */
+"cCp-P3-Koi.normalTitle" = "سروس کی شرائط";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "cPe-Qb-Pxg"; */
+"cPe-Qb-Pxg.normalTitle" = "بھیجیں";
+
+/* Class = "UILabel"; text = "Please select a package from below:-"; ObjectID = "dKb-sR-Eew"; */
+"dKb-sR-Eew.text" = "براہ کرم نیچے سے ایک پیکیج منتخب کریں:-";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "dds-Jp-G1t"; */
+"dds-Jp-G1t.text" = "ورژن 1.5";
+
+/* Class = "UIButton"; normalTitle = "WhatsApp"; ObjectID = "dvB-qC-ItJ"; */
+"dvB-qC-ItJ.normalTitle" = "واٹس ایپ";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "e9m-JP-2i2"; */
+"e9m-JP-2i2.text" = "ورژن 1.5";
+
+/* Class = "UILabel"; text = "Change Location"; ObjectID = "fes-zf-PPx"; */
+"fes-zf-PPx.text" = "مقام تبدیل کریں۔";
+
+/* Class = "UILabel"; text = "United States"; ObjectID = "g0o-Mc-KNF"; */
+"g0o-Mc-KNF.text" = "ریاستہائے متحدہ";
+
+/* Class = "UILabel"; text = "We will email your current password"; ObjectID = "hdp-5h-5W6"; */
+"hdp-5h-5W6.text" = "ہم آپ کا موجودہ پاس ورڈ ای میل کریں گے۔";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "hic-BS-11G"; */
+"hic-BS-11G.placeholder" = "پاس ورڈ";
+
+/* Class = "UINavigationItem"; title = "Log In"; ObjectID = "hqW-rR-X6b"; */
+"hqW-rR-X6b.title" = "لاگ ان کریں";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "i5s-CG-Wbm"; */
+"i5s-CG-Wbm.text" = "ورژن 1.5";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "j28-Wo-Gpi"; */
+"j28-Wo-Gpi.text" = "ترتیبات";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "jC8-WY-KXU"; */
+"jC8-WY-KXU.text" = "ہمارے بارے میں";
+
+/* Class = "UILabel"; text = "Get Support"; ObjectID = "jUg-Mg-3ZE"; */
+"jUg-Mg-3ZE.text" = "مدد حاصل کریں";
+
+/* Class = "UILabel"; text = "Get Support"; ObjectID = "jgw-7d-ph3"; */
+"jgw-7d-ph3.text" = "مدد حاصل کریں";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "k0g-P4-0pK"; */
+"k0g-P4-0pK.normalTitle" = "لاگ آوٹ";
+
+/* Class = "UILabel"; text = "Account Status: "; ObjectID = "sNW-zP-rgi"; */
+"sNW-zP-rgi.text" = "اکاؤنٹ کی حالت:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lDK-qk-bUe"; */
+"lDK-qk-bUe.text" = "لیبل";
+
+/* Class = "UILabel"; text = "Version"; ObjectID = "mpQ-cZ-xtc"; */
+"mpQ-cZ-xtc.text" = "ورژن";
+
+/* Class = "UILabel"; text = "EROR"; ObjectID = "mwC-dZ-cCr"; */
+"mwC-dZ-cCr.text" = "غلطی";
+
+/* Class = "UIButton"; normalTitle = "Contact Via Website"; ObjectID = "niX-fU-K6H"; */
+"niX-fU-K6H.normalTitle" = "ویب سائٹ کے ذریعے رابطہ کریں۔";
+
+/* Class = "UITextView"; text = "# We do not store any logs # We do not collect any data # We cannot identify individuals # We protect your privacy # We do not store your original IP address # We do not sell or disclose any personal data to third parties"; ObjectID = "oqX-k2-H0a"; */
+"oqX-k2-H0a.text" = "# ہم کوئی لاگ محفوظ نہیں کرتے# ہم کوئی ڈیٹا اکٹھا نہیں کرتے# ہم افراد کی شناخت نہیں کر سکتے# ہم آپ کی پرائیویسی کی حفاظت کرتے ہیں# ہم آپ کے اصل IP ایڈریس کو محفوظ نہیں کرتے# ہم کسی ذاتی ڈیٹا کو تیسرے فریق کو فروخت یا ظاہر نہیں کرتے";
+
+/* Class = "UILabel"; text = "Scratch Card"; ObjectID = "osR-IA-pfv"; */
+"osR-IA-pfv.text" = "سکریچ کارڈ";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "p0t-0c-gJP"; */
+"p0t-0c-gJP.text" = "پاسورڈ بھول گے";
+
+/* Class = "UILabel"; text = "N.B: Amount will be charged in BDT. 1 USD = 85 BDT (Approximately) \nDo Not need Mobile Number if you don't have Bangladesh Number"; ObjectID = "pRz-rT-bzk"; */
+"pRz-rT-bzk.text" = "N.B: رقم BDT میں وصول کی جائے گی۔ 1 USD = 85 BDT (تقریبا)) Mobile n اگر آپ کے پاس بنگلہ دیش نمبر نہیں ہے تو موبائل نمبر کی ضرورت نہیں ہے۔";
+
+/* Class = "UILabel"; text = "Expiry 10 days"; ObjectID = "ru3-c9-e4m"; */
+"ru3-c9-e4m.text" = "میعاد 10 دن۔";
+
+/* Class = "UILabel"; text = "Network Strength"; ObjectID = "s1m-AE-pAK"; */
+"s1m-AE-pAK.text" = "نیٹ ورک کی طاقت";
+
+/* Class = "UITextField"; placeholder = "USERNAME"; ObjectID = "s7e-Sg-7tN"; */
+"s7e-Sg-7tN.placeholder" = "صارف نام";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "sBj-3j-Tcb"; */
+"sBj-3j-Tcb.placeholder" = "پاس ورڈ کی تصدیق کریں۔";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "sGu-Xf-XFk"; */
+"sGu-Xf-XFk.text" = "ورژن 1.5";
+
+/* Class = "UIButton"; normalTitle = "START"; ObjectID = "sJ7-1N-6pW"; */
+"sJ7-1N-6pW.normalTitle" = "شروع کریں";
+
+/* Class = "UILabel"; text = "Server"; ObjectID = "sPt-hD-bU1"; */
+"sPt-hD-bU1.text" = "سرور۔";
+
+/* Class = "UILabel"; text = "Buy Premimum for unlocking all features"; ObjectID = "tQx-nO-Ton"; */
+"tQx-nO-Ton.text" = "تمام خصوصیات کو غیر مقفل کرنے کے لیے پریمیم خریدیں۔";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "ujH-Ly-Xpr"; */
+"ujH-Ly-Xpr.title" = "ہو گیا";
+
+/* Class = "UITextField"; placeholder = "Search Server"; ObjectID = "ukw-cM-WLw"; */
+"ukw-cM-WLw.placeholder" = "سرچ سرور۔";
+
+/* Class = "UIButton"; normalTitle = "START"; ObjectID = "uzz-nj-EGk"; */
+"uzz-nj-EGk.normalTitle" = "شروع کریں";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "vRW-LS-5Pz"; */
+"vRW-LS-5Pz.normalTitle" = "رازداری کی پالیسی";
+
+/* Class = "UILabel"; text = "Enter the registered email address"; ObjectID = "vm9-La-Ieg"; */
+"vm9-La-Ieg.text" = "رجسٹرڈ ای میل پتہ درج کریں۔";
+
+/* Class = "UILabel"; text = "My Account"; ObjectID = "IXI-nY-qlu"; */
+"IXI-nY-qlu.text" = "میرا اکاونٹ";
+
+/* Class = "UIButton"; normalTitle = "Refund Policy"; ObjectID = "wAu-Su-igL"; */
+"wAu-Su-igL.normalTitle" = "رقم کی واپسی کی پالیسی";
+
+/* Class = "UILabel"; text = "My Account"; ObjectID = "ypw-WY-dsj"; */
+"ypw-WY-dsj.text" = "میرا اکاونٹ";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "zPz-IZ-WrD"; */
+"zPz-IZ-WrD.text" = "ورژن 1.5";
+
+/* Class = "UILabel"; text = "N/A"; ObjectID = "zdK-VQ-acO"; */
+"zdK-VQ-acO.text" = "N/A";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zgS-lX-uqA"; */
+"zgS-lX-uqA.text" = "لیبل";
+
+/* Class = "UILabel"; text = "Server Load"; ObjectID = "zx3-F0-ufa"; */
+"zx3-F0-ufa.text" = "سرور لوڈ۔";
+
+/* Class = "UILabel"; text = "Device"; ObjectID = "8Nl-hs-yub"; */
+"8Nl-hs-yub.text" = "ڈیوائس";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kgd-6j-bZ5"; */
+"kgd-6j-bZ5.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "RJN-8A-o04"; */
+"RJN-8A-o04.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Device added by you"; ObjectID = "VSh-Vf-hgU"; */
+"VSh-Vf-hgU.text" = "آپ کے ذریعہ شامل کردہ آلہ";
+
+/* Class = "UILabel"; text = "No device found"; ObjectID = "jTw-JA-Znq"; */
+"jTw-JA-Znq.text" = "کوئی آلہ نہیں ملا";
+
+/* Class = "UILabel"; text = "VPN Disconnected"; ObjectID = "9X0-XG-tFp"; */
+"9X0-XG-tFp.text" = "VPN منقطع ہو گیا۔";
+
+/* Class = "UILabel"; text = "Ping"; ObjectID = "lZ5-ED-0OU"; */
+"lZ5-ED-0OU.text" = "پنگ";
+
+/* Class = "UILabel"; text = "Download"; ObjectID = "WrE-ih-mgE"; */
+"WrE-ih-mgE.text" = "ڈاؤن لوڈ کریں";
+
+/* Class = "UILabel"; text = "Upload"; ObjectID = "fAv-q3-Lg5"; */
+"fAv-q3-Lg5.text" = "اپ لوڈ کریں۔";
+
+/* Class = "UILabel"; text = "Pay for best"; ObjectID = "Gp8-Dj-t4u"; */
+"Gp8-Dj-t4u.text" = "بہترین ادائیگی کریں۔";
+
+/* Class = "UILabel"; text = "Account Information"; ObjectID = "sKM-98-zws"; */
+"sKM-98-zws.text" = "اکاؤنٹ کی معلومات";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "q0T-z5-KoZ"; */
+"q0T-z5-KoZ.text" = "ای میل";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "WJy-gj-7uZ"; */
+"WJy-gj-7uZ.text" = "پاس ورڈ";
+
+/* Class = "UILabel"; text = "Unlock all features"; ObjectID = "eSc-aO-Lqh"; */
+"eSc-aO-Lqh.text" = "تمام خصوصیات کو غیر مقفل کریں۔";
+
+/* Class = "UILabel"; text = "BUY PREMIUM"; ObjectID = "1rC-tt-DfG"; */
+"1rC-tt-DfG.text" = "پریمیم خریدیں۔";
+
+/* Class = "UILabel"; text = "Expired on"; ObjectID = "rZS-tY-gRV"; */
+"rZS-tY-gRV.text" = "میعاد ختم ہو گئی۔";
+
+/* Class = "UILabel"; text = "Support"; ObjectID = "eij-72-Xep"; */
+"eij-72-Xep.text" = "حمایت";
+
+/* Class = "UILabel"; text = "Live Support Team"; ObjectID = "adZ-x6-h6l"; */
+"adZ-x6-h6l.text" = "لائیو سپورٹ ٹیم";
+
+/* Class = "UILabel"; text = "Unlock All Premium Features"; ObjectID = "YI0-dz-Odj"; */
+"YI0-dz-Odj.text" = "تمام پریمیم خصوصیات کو غیر مقفل کریں۔";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "i0c-aX-Uab"; */
+"i0c-aX-Uab.normalTitle" = "ہو گیا";
+
+/* Class = "UILabel"; text = "My Wallet"; ObjectID = "EYb-Pb-ni0"; */
+"EYb-Pb-ni0.text" = "میرا بٹوہ";
+
+/* Class = "UILabel"; text = "My Wallet"; ObjectID = "qxd-8Z-wSu"; */
+"qxd-8Z-wSu.text" = "میرا بٹوہ";
+
+/* Class = "UIButton"; normalTitle = "Withdraw Your Balance"; ObjectID = "uc8-5V-0oR"; */
+"uc8-5V-0oR.normalTitle" = "اپنا بیلنس نکال لیں۔";
+
+/* Class = "UILabel"; text = "Redeem Your Code"; ObjectID = "ytb-gX-Sef"; */
+"ytb-gX-Sef.text" = "اپنا کوڈ چھڑائیں۔";
+
+/* Class = "UITextField"; placeholder = "Enter Referral Code"; ObjectID = "Fgr-pB-oWu"; */
+"Fgr-pB-oWu.placeholder" = "ریفرل کوڈ درج کریں۔";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "K1s-DZ-fZr"; */
+"K1s-DZ-fZr.normalTitle" = "درخواست دیں";
+
+/* Class = "UILabel"; text = "Your Referral Code"; ObjectID = "LPk-oO-8a0"; */
+"LPk-oO-8a0.text" = "آپ کا ریفرل کوڈ";
+
+/* Class = "UILabel"; text = "Packages"; ObjectID = "oVR-GK-BAY"; */
+"oVR-GK-BAY.text" = "پیکجز";
+
+/* Class = "UILabel"; text = "You"; ObjectID = "U0l-Dm-B5s"; */
+"U0l-Dm-B5s.text" = "تم";
+
+/* Class = "UILabel"; text = "Your Friend"; ObjectID = "MTy-uj-Af5"; */
+"MTy-uj-Af5.text" = "آپ کا دوست";
+
+/* Class = "UILabel"; text = "How does It Work?"; ObjectID = "Wyq-ae-sjf"; */
+"Wyq-ae-sjf.text" = "یہ کیسے کام کرتا ہے؟";
+
+/* Class = "UILabel"; text = "Refer your friend through your Symlex VPN account"; ObjectID = "Pw7-S9-gxk"; */
+"Pw7-S9-gxk.text" = "اپنے Symlex VPN اکاؤنٹ کے ذریعے اپنے دوست سے رجوع کریں۔";
+
+/* Class = "UILabel"; text = "Your friend signs up and redeems your code in their wallet"; ObjectID = "yRI-2d-esB"; */
+"yRI-2d-esB.text" = "آپ کا دوست سائن اپ کرتا ہے اور آپ کے کوڈ کو اپنے بٹوے میں چھڑاتا ہے۔";
+
+/* Class = "UILabel"; text = "Your friend purchases a premium subscription"; ObjectID = "pNh-Gh-pqj"; */
+"pNh-Gh-pqj.text" = "آپ کا دوست پریمیم سبسکرپشن خریدتا ہے۔";
+
+/* Class = "UILabel"; text = "You and your friends get rewards in the respective accounts"; ObjectID = "mb4-jd-rS6"; */
+"mb4-jd-rS6.text" = "آپ اور آپ کے دوستوں کو متعلقہ اکاؤنٹس میں انعامات ملتے ہیں۔";
+
+/* Class = "UILabel"; text = "Statements"; ObjectID = "Dm9-9t-fBc"; */
+"Dm9-9t-fBc.text" = "بیانات";
+
+/* Class = "UILabel"; text = "Withdraw"; ObjectID = "Z4v-2N-7P4"; */
+"Z4v-2N-7P4.text" = "واپس لینا";
+
+/* Class = "UILabel"; text = "Payment Method"; ObjectID = "FuV-xg-BoI"; */
+"FuV-xg-BoI.text" = "ادائیگی کا طریقہ";
+
+/* Class = "UILabel"; text = "Personal Information"; ObjectID = "cSg-Ai-gtL"; */
+"cSg-Ai-gtL.text" = "ذاتی معلومات";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "Kt5-vr-40a"; */
+"Kt5-vr-40a.placeholder" = "نام";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "ewh-Dg-vbf"; */
+"ewh-Dg-vbf.placeholder" = "پتہ";
+
+/* Class = "UILabel"; text = "Code"; ObjectID = "Rb1-hP-gsO"; */
+"Rb1-hP-gsO.text" = "کوڈ";
+
+/* Class = "UITextField"; placeholder = "Contact Number"; ObjectID = "NbE-rS-kus"; */
+"NbE-rS-kus.placeholder" = "رابطہ نمبر";
+
+/* Class = "UILabel"; text = "BKash Details"; ObjectID = "74D-m2-4Yu"; */
+"74D-m2-4Yu.text" = "بکاش تفصیلات";
+
+/* Class = "UITextField"; placeholder = "Number"; ObjectID = "zzE-ol-Xts"; */
+"zzE-ol-Xts.placeholder" = "نمبر";
+
+/* Class = "UILabel"; text = "PayPal Details"; ObjectID = "Rqd-uS-bR3"; */
+"Rqd-uS-bR3.text" = "پے پال کی تفصیلات";
+
+/* Class = "UITextField"; placeholder = "PayPal Email"; ObjectID = "NXu-yP-sbn"; */
+"NXu-yP-sbn.placeholder" = "پے پال ای میل";
+
+/* Class = "UILabel"; text = "Bank Details"; ObjectID = "0H4-Ea-4TU"; */
+"0H4-Ea-4TU.text" = "بینک کی تفصیلات";
+
+/* Class = "UITextField"; placeholder = "Bank Name"; ObjectID = "LZN-yX-sED"; */
+"LZN-yX-sED.placeholder" = "بینک کا نام";
+
+/* Class = "UITextField"; placeholder = "Account Name"; ObjectID = "OsC-yU-qPw"; */
+"OsC-yU-qPw.placeholder" = "کھاتے کا نام";
+
+/* Class = "UITextField"; placeholder = "Account Number"; ObjectID = "bCW-gL-M11"; */
+"bCW-gL-M11.placeholder" = "اکاؤنٹ نمبر";
+
+/* Class = "UITextField"; placeholder = "Branch Address/Code"; ObjectID = "E8E-H5-IsM"; */
+"E8E-H5-IsM.placeholder" = "برانچ کا پتہ/کوڈ";
+
+/* Class = "UITextField"; placeholder = "Swift Code/IBAN Number"; ObjectID = "usq-7I-8oD"; */
+"usq-7I-8oD.placeholder" = "سوئفٹ کوڈ/IBAN نمبر";
+
+/* Class = "UILabel"; text = "Withdrawal Amount"; ObjectID = "cgl-LM-hmx"; */
+"cgl-LM-hmx.text" = "واپسی کی رقم";
+
+/* Class = "UITextField"; placeholder = "Amount"; ObjectID = "6vK-P3-WWH"; */
+"6vK-P3-WWH.placeholder" = "رقم";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "sSK-8M-R5C"; */
+"sSK-8M-R5C.normalTitle" = "جمع کرائیں";
+
+/* Class = "UILabel"; text = "Delete Account"; ObjectID = "r0Q-gy-kcf"; */
+"r0Q-gy-kcf.text" = "کھاتہ مٹا دو";
+
+/* Class = "UILabel"; text = "Delete your account permanently"; ObjectID = "Fwr-Xf-ZNz"; */
+"Fwr-Xf-ZNz.text" = "اپنا اکاؤنٹ مستقل طور پر حذف کریں۔";
+
+/* Class = "UILabel"; text = "Refer & Earn"; ObjectID = "22k-6b-DwH"; */
+"22k-6b-DwH.text" = "رجوع کریں اور کمائیں۔";
+
+/* Class = "UILabel"; text = "Platform Name"; ObjectID = "WMp-ug-09q"; */
+"WMp-ug-09q.text" = "پلیٹ فارم کا نام";

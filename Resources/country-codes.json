@@ -1,0 +1,926 @@
+[
+        {
+        "calling-code" : "+355",
+        "country-code" : "8",
+        "name" : "Albania"
+    },
+        {
+        "calling-code" : "+213",
+        "country-code" : "012",
+        "name" : "Algeria"
+    },
+        {
+        "calling-code" : "+1",
+        "country-code" : "16",
+        "name" : "American Samoa"
+    },
+        {
+        "calling-code" : "+376",
+        "country-code" : "020",
+        "name" : "Andorra"
+    },
+        {
+        "calling-code" : "+244",
+        "country-code" : "024",
+        "name" : "Angola"
+    },
+        {
+        "calling-code" : "+1",
+        "country-code" : "660",
+        "name" : "Anguilla"
+    },
+        {
+        "calling-code" : "+1",
+        "country-code" : "28",
+        "name" : "Antigua and Barbuda"
+    },
+        {
+        "calling-code" : "+54",
+        "country-code" : "032",
+        "name" : "Argentina"
+    },
+        {
+        "calling-code" : "+374",
+        "country-code" : "051",
+        "name" : "Armenia"
+    },
+        {
+        "calling-code" : "+297",
+        "country-code" : "533",
+        "name" : "Aruba"
+    },
+        {
+        "calling-code" : "+61",
+        "country-code" : "036",
+        "name" : "Australia"
+    },
+        {
+        "calling-code" : "+43",
+        "country-code" : "040",
+        "name" : "Austria"
+    },
+        {
+        "calling-code" : "+994",
+        "country-code" : "031",
+        "name" : "Azerbaijan"
+    },
+        {
+        "calling-code" : "+1",
+        "country-code" : "044",
+        "name" : "Bahamas"
+    },
+        {
+        "calling-code" : "+973",
+        "country-code" : "48",
+        "name" : "Bahrain"
+    },
+        {
+        "calling-code" : "+880",
+        "country-code" : "050",
+        "name" : "Bangladesh"
+    },
+        {
+        "calling-code" : "+1",
+        "country-code" : "052",
+        "name" : "Barbados"
+    },
+        {
+        "calling-code" : "+375",
+        "country-code" : "112",
+        "name" : "Belarus"
+    },
+        {
+        "calling-code" : "+32",
+        "country-code" : "056",
+        "name" : "Belgium"
+    },
+        {
+        "calling-code" : "+501",
+        "country-code" : "84",
+        "name" : "Belize"
+    },
+        {
+        "calling-code" : "+229",
+        "country-code" : "204",
+        "name" : "Benin"
+    },
+        {
+        "calling-code" : "+975",
+        "country-code" : "064",
+        "name" : "Bhutan"
+    },
+        {
+        "calling-code" : "+387",
+        "country-code" : "070",
+        "name" : "Bosnia and Herzegovina"
+    },
+        {
+        "calling-code" : "+267",
+        "country-code" : "072",
+        "name" : "Botswana"
+    },
+        {
+        "calling-code" : "+55",
+        "country-code" : "076",
+        "name" : "Brazil"
+    },
+        {
+        "calling-code" : "+359",
+        "country-code" : "100",
+        "name" : "Bulgaria"
+    },
+        {
+        "calling-code" : "+226",
+        "country-code" : "854",
+        "name" : "Burkina Faso"
+    },
+        {
+        "calling-code" : "+257",
+        "country-code" : "108",
+        "name" : "Burundi"
+    },
+        {
+        "calling-code" : "+855",
+        "country-code" : "116",
+        "name" : "Cambodia"
+    },
+        {
+        "calling-code" : "+237",
+        "country-code" : "120",
+        "name" : "Cameroon"
+    },
+        {
+        "calling-code" : "+1",
+        "country-code" : "124",
+        "name" : "Canada"
+    },
+        {
+        "calling-code" : "+1",
+        "country-code" : "136",
+        "name" : "Cayman Islands"
+    },
+        {
+        "calling-code" : "+236",
+        "country-code" : "140",
+        "name" : "Central African Republic"
+    },
+        {
+        "calling-code" : "+235",
+        "country-code" : "148",
+        "name" : "Chad"
+    },
+        {
+        "calling-code" : "+56",
+        "country-code" : "152",
+        "name" : "Chile"
+    },
+        {
+        "calling-code" : "+86",
+        "country-code" : "156",
+        "name" : "China"
+    },
+        {
+        "calling-code" : "+57",
+        "country-code" : "170",
+        "name" : "Colombia"
+    },
+        {
+        "calling-code" : "+269",
+        "country-code" : "174",
+        "name" : "Comoros"
+    },
+        {
+        "calling-code" : "+682",
+        "country-code" : "184",
+        "name" : "Cook Islands"
+    },
+        {
+        "calling-code" : "+506",
+        "country-code" : "188",
+        "name" : "Costa Rica"
+    },
+        {
+        "calling-code" : "+225",
+        "country-code" : "384",
+        "name" : "Côte d'Ivoire"
+    },
+        {
+        "calling-code" : "+385",
+        "country-code" : "191",
+        "name" : "Croatia"
+    },
+        {
+        "calling-code" : "+53",
+        "country-code" : "192",
+        "name" : "Cuba"
+    },
+        {
+        "calling-code" : "+357",
+        "country-code" : "196",
+        "name" : "Cyprus"
+    },
+        {
+        "calling-code" : "+45",
+        "country-code" : "208",
+        "name" : "Denmark"
+    },
+        {
+        "calling-code" : "+253",
+        "country-code" : "262",
+        "name" : "Djibouti"
+    },
+        {
+        "calling-code" : "+1",
+        "country-code" : "212",
+        "name" : "Dominica"
+    },
+        {
+        "calling-code" : "+1",
+        "country-code" : "214",
+        "name" : "Dominican Republic"
+    },
+        {
+        "calling-code" : "+593",
+        "country-code" : "218",
+        "name" : "Ecuador"
+    },
+        {
+        "calling-code" : "+20",
+        "country-code" : "818",
+        "name" : "Egypt"
+    },
+        {
+        "calling-code" : "+503",
+        "country-code" : "222",
+        "name" : "El Salvador"
+    },
+        {
+        "calling-code" : "+240",
+        "country-code" : "226",
+        "name" : "Equatorial Guinea"
+    },
+        {
+        "calling-code" : "+291",
+        "country-code" : "232",
+        "name" : "Eritrea"
+    },
+        {
+        "calling-code" : "+372",
+        "country-code" : "233",
+        "name" : "Estonia"
+    },
+        {
+        "calling-code" : "+251",
+        "country-code" : "231",
+        "name" : "Ethiopia"
+    },
+        {
+        "calling-code" : "+298",
+        "country-code" : "234",
+        "name" : "Faroe Islands"
+    },
+        {
+        "calling-code" : "+679",
+        "country-code" : "242",
+        "name" : "Fiji"
+    },
+        {
+        "calling-code" : "+358",
+        "country-code" : "246",
+        "name" : "Finland"
+    },
+        {
+        "calling-code" : "+33",
+        "country-code" : "250",
+        "name" : "France"
+    },
+        {
+        "calling-code" : "+689",
+        "country-code" : "258",
+        "name" : "French Polynesia"
+    },
+        {
+        "calling-code" : "+241",
+        "country-code" : "266",
+        "name" : "Gabon"
+    },
+        {
+        "calling-code" : "+220",
+        "country-code" : "270",
+        "name" : "Gambia"
+    },
+        {
+        "calling-code" : "+995",
+        "country-code" : "268",
+        "name" : "Georgia"
+    },
+        {
+        "calling-code" : "+49",
+        "country-code" : "276",
+        "name" : "Germany"
+    },
+        {
+        "calling-code" : "+233",
+        "country-code" : "288",
+        "name" : "Ghana"
+    },
+        {
+        "calling-code" : "+350",
+        "country-code" : "292",
+        "name" : "Gibraltar"
+    },
+        {
+        "calling-code" : "+30",
+        "country-code" : "300",
+        "name" : "Greece"
+    },
+        {
+        "calling-code" : "+299",
+        "country-code" : "304",
+        "name" : "Greenland"
+    },
+        {
+        "calling-code" : "+1",
+        "country-code" : "308",
+        "name" : "Grenada"
+    },
+        {
+        "calling-code" : "+502",
+        "country-code" : "320",
+        "name" : "Guatemala"
+    },
+        {
+        "calling-code" : "+44",
+        "country-code" : "831",
+        "name" : "Guernsey"
+    },
+        {
+        "calling-code" : "+245",
+        "country-code" : "624",
+        "name" : "Guinea-Bissau"
+    },
+        {
+        "calling-code" : "+592",
+        "country-code" : "328",
+        "name" : "Guyana"
+    },
+        {
+        "calling-code" : "+509",
+        "country-code" : "332",
+        "name" : "Haiti"
+    },
+        {
+        "calling-code" : "+504",
+        "country-code" : "340",
+        "name" : "Honduras"
+    },
+        {
+        "calling-code" : "+852",
+        "country-code" : "344",
+        "name" : "Hong Kong"
+    },
+        {
+        "calling-code" : "+36",
+        "country-code" : "348",
+        "name" : "Hungary"
+    },
+        {
+        "calling-code" : "+91",
+        "country-code" : "356",
+        "name" : "India"
+    },
+        {
+        "calling-code" : "+62",
+        "country-code" : "360",
+        "name" : "Indonesia"
+    },
+        {
+        "calling-code" : "+964",
+        "country-code" : "368",
+        "name" : "Iraq"
+    },
+        {
+        "calling-code" : "+353",
+        "country-code" : "372",
+        "name" : "Ireland"
+    },
+        {
+        "calling-code" : "+44",
+        "country-code" : "833",
+        "name" : "Isle of Man"
+    },
+        {
+        "calling-code" : "+972",
+        "country-code" : "376",
+        "name" : "Israel"
+    },
+        {
+        "calling-code" : "+39",
+        "country-code" : "380",
+        "name" : "Italy"
+    },
+        {
+        "calling-code" : "+1",
+        "country-code" : "388",
+        "name" : "Jamaica"
+    },
+        {
+        "calling-code" : "+81",
+        "country-code" : "392",
+        "name" : "Japan"
+    },
+        {
+        "calling-code" : "+962",
+        "country-code" : "400",
+        "name" : "Jordan"
+    },
+        {
+        "calling-code" : "+7",
+        "country-code" : "398",
+        "name" : "Kazakhstan"
+    },
+        {
+        "calling-code" : "+254",
+        "country-code" : "398",
+        "name" : "Kenya"
+    },
+        {
+        "calling-code" : "+686",
+        "country-code" : "414",
+        "name" : "Kiribati"
+    },
+        {
+        "calling-code" : "+965",
+        "country-code" : "296",
+        "name" : "Kuwait"
+    },
+        {
+        "calling-code" : "+996",
+        "country-code" : "417",
+        "name" : "Kyrgyzstan"
+    },
+        {
+        "calling-code" : "+371",
+        "country-code" : "428",
+        "name" : "Latvia"
+    },
+        {
+        "calling-code" : "+961",
+        "country-code" : "422",
+        "name" : "Lebanon"
+    },
+        {
+        "calling-code" : "+266",
+        "country-code" : "426",
+        "name" : "Lesotho"
+    },
+        {
+        "calling-code" : "+231",
+        "country-code" : "430",
+        "name" : "Liberia"
+    },
+        {
+        "calling-code" : "+218",
+        "country-code" : "434",
+        "name" : "Libya"
+    },
+        {
+        "calling-code" : "+423",
+        "country-code" : "438",
+        "name" : "Liechtenstein"
+    },
+        {
+        "calling-code" : "+370",
+        "country-code" : "440",
+        "name" : "Lithuania"
+    },
+        {
+        "calling-code" : "+352",
+        "country-code" : "442",
+        "name" : "Luxembourg"
+    },
+        {
+        "calling-code" : "+261",
+        "country-code" : "450",
+        "name" : "Madagascar"
+    },
+        {
+        "calling-code" : "+265",
+        "country-code" : "454",
+        "name" : "Malawi"
+    },
+        {
+        "calling-code" : "+60",
+        "country-code" : "458",
+        "name" : "Malaysia"
+    },
+        {
+        "calling-code" : "+960",
+        "country-code" : "462",
+        "name" : "Maldives"
+    },
+        {
+        "calling-code" : "+223",
+        "country-code" : "466",
+        "name" : "Mali"
+    },
+        {
+        "calling-code" : "+356",
+        "country-code" : "470",
+        "name" : "Malta"
+    },
+        {
+        "calling-code" : "+692",
+        "country-code" : "584",
+        "name" : "Marshall Islands"
+    },
+        {
+        "calling-code" : "+596",
+        "country-code" : "474",
+        "name" : "Martinique"
+    },
+        {
+        "calling-code" : "+222",
+        "country-code" : "478",
+        "name" : "Mauritania"
+    },
+        {
+        "calling-code" : "+230",
+        "country-code" : "480",
+        "name" : "Mauritius"
+    },
+        {
+        "calling-code" : "+262",
+        "country-code" : "175",
+        "name" : "Mayotte"
+    },
+        {
+        "calling-code" : "+52",
+        "country-code" : "484",
+        "name" : "Mexico"
+    },
+        {
+        "calling-code" : "+377",
+        "country-code" : "492",
+        "name" : "Monaco"
+    },
+        {
+        "calling-code" : "+976",
+        "country-code" : "496",
+        "name" : "Mongolia"
+    },
+        {
+        "calling-code" : "+382",
+        "country-code" : "499",
+        "name" : "Montenegro"
+    },
+        {
+        "calling-code" : "+1",
+        "country-code" : "500",
+        "name" : "Montserrat"
+    },
+        {
+        "calling-code" : "+212",
+        "country-code" : "504",
+        "name" : "Morocco"
+    },
+        {
+        "calling-code" : "+258",
+        "country-code" : "508",
+        "name" : "Mozambique"
+    },
+        {
+        "calling-code" : "+264",
+        "country-code" : "516",
+        "name" : "Namibia"
+    },
+        {
+        "calling-code" : "+674",
+        "country-code" : "520",
+        "name" : "Nauru"
+    },
+        {
+        "calling-code" : "+977",
+        "country-code" : "524",
+        "name" : "Nepal"
+    },
+        {
+        "calling-code" : "+31",
+        "country-code" : "528",
+        "name" : "Netherlands"
+    },
+        {
+        "calling-code" : "+687",
+        "country-code" : "540",
+        "name" : "New Caledonia"
+    },
+        {
+        "calling-code" : "+64",
+        "country-code" : "554",
+        "name" : "New Zealand"
+    },
+        {
+        "calling-code" : "+505",
+        "country-code" : "558",
+        "name" : "Nicaragua"
+    },
+        {
+        "calling-code" : "+227",
+        "country-code" : "562",
+        "name" : "Niger"
+    },
+        {
+        "calling-code" : "+234",
+        "country-code" : "566",
+        "name" : "Nigeria"
+    },
+        {
+        "calling-code" : "+683",
+        "country-code" : "570",
+        "name" : "Niue"
+    },
+        {
+        "calling-code" : "+47",
+        "country-code" : "578",
+        "name" : "Norway"
+    },
+        {
+        "calling-code" : "+968",
+        "country-code" : "512",
+        "name" : "Oman"
+    },
+        {
+        "calling-code" : "+92",
+        "country-code" : "586",
+        "name" : "Pakistan"
+    },
+        {
+        "calling-code" : "+680",
+        "country-code" : "585",
+        "name" : "Palau"
+    },
+        {
+        "calling-code" : "+507",
+        "country-code" : "591",
+        "name" : "Panama"
+    },
+        {
+        "calling-code" : "+675",
+        "country-code" : "598",
+        "name" : "Papua New Guinea"
+    },
+        {
+        "calling-code" : "+595",
+        "country-code" : "600",
+        "name" : "Paraguay"
+    },
+        {
+        "calling-code" : "+51",
+        "country-code" : "604",
+        "name" : "Peru"
+    },
+        {
+        "calling-code" : "+63",
+        "country-code" : "608",
+        "name" : "Philippines"
+    },
+        {
+        "calling-code" : "+48",
+        "country-code" : "616",
+        "name" : "Poland"
+    },
+        {
+        "calling-code" : "+351",
+        "country-code" : "620",
+        "name" : "Portugal"
+    },
+        {
+        "calling-code" : "+1",
+        "country-code" : "630",
+        "name" : "Puerto Rico"
+    },
+        {
+        "calling-code" : "+974",
+        "country-code" : "634",
+        "name" : "Qatar"
+    },
+        {
+        "calling-code" : "+40",
+        "country-code" : "642",
+        "name" : "Romania"
+    },
+        {
+        "calling-code" : "+250",
+        "country-code" : "646",
+        "name" : "Rwanda"
+    },
+        {
+        "calling-code" : "+590",
+        "country-code" : "652",
+        "name" : "Saint Barthélemy"
+    },
+        {
+        "calling-code" : "+508",
+        "country-code" : "666",
+        "name" : "Saint Pierre and Miquelon"
+    },
+        {
+        "calling-code" : "+685",
+        "country-code" : "882",
+        "name" : "Samoa"
+    },
+        {
+        "calling-code" : "+378",
+        "country-code" : "674",
+        "name" : "San Marino"
+    },
+        {
+        "calling-code" : "+966",
+        "country-code" : "682",
+        "name" : "Saudi Arabia"
+    },
+        {
+        "calling-code" : "+221",
+        "country-code" : "686",
+        "name" : "Senegal"
+    },
+        {
+        "calling-code" : "+381",
+        "country-code" : "688",
+        "name" : "Serbia"
+    },
+        {
+        "calling-code" : "+248",
+        "country-code" : "690",
+        "name" : "Seychelles"
+    },
+        {
+        "calling-code" : "+232",
+        "country-code" : "694",
+        "name" : "Sierra Leone"
+    },
+        {
+        "calling-code" : "+65",
+        "country-code" : "702",
+        "name" : "Singapore"
+    },
+        {
+        "calling-code" : "+421",
+        "country-code" : "703",
+        "name" : "Slovakia"
+    },
+        {
+        "calling-code" : "+386",
+        "country-code" : "705",
+        "name" : "Slovenia"
+    },
+        {
+        "calling-code" : "+677",
+        "country-code" : "90",
+        "name" : "Solomon Islands"
+    },
+        {
+        "calling-code" : "+252",
+        "country-code" : "706",
+        "name" : "Somalia"
+    },
+        {
+        "calling-code" : "+27",
+        "country-code" : "710",
+        "name" : "South Africa"
+    },
+        {
+        "calling-code" : "+211",
+        "country-code" : "728",
+        "name" : "South Sudan"
+    },
+        {
+        "calling-code" : "+34",
+        "country-code" : "724",
+        "name" : "Spain"
+    },
+        {
+        "calling-code" : "+94",
+        "country-code" : "144",
+        "name" : "Sri Lanka"
+    },
+        {
+        "calling-code" : "+249",
+        "country-code" : "729",
+        "name" : "Sudan"
+    },
+        {
+        "calling-code" : "+597",
+        "country-code" : "740",
+        "name" : "Suriname"
+    },
+        {
+        "calling-code" : "+46",
+        "country-code" : "752",
+        "name" : "Sweden"
+    },
+        {
+        "calling-code" : "+41",
+        "country-code" : "756",
+        "name" : "Switzerland"
+    },
+        {
+        "calling-code" : "+992",
+        "country-code" : "762",
+        "name" : "Tajikistan"
+    },
+        {
+        "calling-code" : "+66",
+        "country-code" : "764",
+        "name" : "Thailand"
+    },
+        {
+        "calling-code" : "+228",
+        "country-code" : "768",
+        "name" : "Togo"
+    },
+        {
+        "calling-code" : "+690",
+        "country-code" : "772",
+        "name" : "Tokelau"
+    },
+        {
+        "calling-code" : "+676",
+        "country-code" : "776",
+        "name" : "Tonga"
+    },
+        {
+        "calling-code" : "+216",
+        "country-code" : "788",
+        "name" : "Tunisia"
+    },
+        {
+        "calling-code" : "+90",
+        "country-code" : "792",
+        "name" : "Turkey"
+    },
+        {
+        "calling-code" : "+993",
+        "country-code" : "795",
+        "name" : "Turkmenistan"
+    },
+        {
+        "calling-code" : "+1",
+        "country-code" : "796",
+        "name" : "Turks and Caicos Islands"
+    },
+        {
+        "calling-code" : "+688",
+        "country-code" : "798",
+        "name" : "Tuvalu"
+    },
+        {
+        "calling-code" : "+256",
+        "country-code" : "800",
+        "name" : "Uganda"
+    },
+        {
+        "calling-code" : "+380",
+        "country-code" : "804",
+        "name" : "Ukraine"
+    },
+        {
+        "calling-code" : "+971",
+        "country-code" : "784",
+        "name" : "United Arab Emirates"
+    },
+        {
+        "calling-code" : "+598",
+        "country-code" : "858",
+        "name" : "Uruguay"
+    },
+        {
+        "calling-code" : "+998",
+        "country-code" : "860",
+        "name" : "Uzbekistan"
+    },
+        {
+        "calling-code" : "+678",
+        "country-code" : "548",
+        "name" : "Vanuatu"
+    },
+        {
+        "calling-code" : "+681",
+        "country-code" : "876",
+        "name" : "Wallis and Futuna"
+    },
+        {
+        "calling-code" : "+967",
+        "country-code" : "887",
+        "name" : "Yemen"
+    },
+        {
+        "calling-code" : "+260",
+        "country-code" : "894",
+        "name" : "Zambia"
+    },
+            
+  ]
+
+
+

@@ -1,0 +1,626 @@
+
+/* Class = "UILabel"; text = "Bank Details"; ObjectID = "0H4-Ea-4TU"; */
+"0H4-Ea-4TU.text" = "Banka detayları";
+
+/* Class = "UILabel"; text = "Newyork"; ObjectID = "0Td-Di-GEk"; */
+"0Td-Di-GEk.text" = "New York";
+
+/* Class = "UILabel"; text = "0 Kbps"; ObjectID = "1Ja-13-UQv"; */
+"1Ja-13-UQv.text" = "0 Kb/sn";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "1MW-aH-gpB"; */
+"1MW-aH-gpB.text" = "Bildirimler";
+
+/* Class = "UILabel"; text = "1 Month"; ObjectID = "1Yo-3d-VgU"; */
+"1Yo-3d-VgU.text" = "1 ay";
+
+/* Class = "UILabel"; text = "FAVORITE"; ObjectID = "1j6-cw-sek"; */
+"1j6-cw-sek.text" = "FAVORİ";
+
+/* Class = "UILabel"; text = "Device Name"; ObjectID = "1q3-NA-6Y1"; */
+"1q3-NA-6Y1.text" = "Cihaz adı";
+
+/* Class = "UIButton"; normalTitle = "BUY PREMIUM"; ObjectID = "1rC-tt-DfG"; */
+"1rC-tt-DfG.normalTitle" = "PREMIUM SATIN AL";
+
+/* Class = "UIButton"; normalTitle = "Agree & Continue"; ObjectID = "1zM-eM-hZc"; */
+"1zM-eM-hZc.normalTitle" = "Kabul Et ve Devam Et";
+
+/* Class = "UILabel"; text = "$1"; ObjectID = "22Q-GF-Smm"; */
+"22Q-GF-Smm.text" = "1 dolar";
+
+/* Class = "UILabel"; text = "Refer & Earn"; ObjectID = "22k-6b-DwH"; */
+"22k-6b-DwH.text" = "Bak ve Kazan";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "2FG-A8-hFe"; */
+"2FG-A8-hFe.text" = "Sürüm 1.5";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "37z-kD-62a"; */
+"37z-kD-62a.text" = "Etiket";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "3DT-Mi-Zb1"; */
+"3DT-Mi-Zb1.text" = "Başlık";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "3FD-qg-Wxb"; */
+"3FD-qg-Wxb.text" = "Sürüm 1.5";
+
+/* Class = "UILabel"; text = "BUY PREMIUM"; ObjectID = "3om-XN-0NA"; */
+"3om-XN-0NA.text" = "PREMIUM SATIN AL";
+
+/* Class = "UILabel"; text = "Subtitle One"; ObjectID = "41U-Nh-gda"; */
+"41U-Nh-gda.text" = "Altyazı Bir";
+
+/* Class = "UITextField"; placeholder = "PASSWORD"; ObjectID = "4Cv-Pq-OuI"; */
+"4Cv-Pq-OuI.placeholder" = "PAROLA";
+
+/* Class = "UILabel"; text = "Signup"; ObjectID = "4dH-yB-Boe"; */
+"4dH-yB-Boe.text" = "Üye olmak";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "54m-13-GUY"; */
+"54m-13-GUY.title" = "Tamamlandı";
+
+/* Class = "UILabel"; text = "N.B: Amount will be charged in BDT. 1 USD = 85 BDT (Approximately) \nDo Not need Mobile Number if you don't have Bangladesh Number"; ObjectID = "5Ge-he-2T9"; */
+"5Ge-he-2T9.text" = "Not: Tutar şu tarihte tahsil edilecektir: BDT. 1 AmerikanDoları = 85 BDT
+(Yaklaşıkolarak) \Bangladeş Numaranız yoksa Cep Numarasına ihtiyacınız yok";
+
+/* Class = "UILabel"; text = "HIGH TWO"; ObjectID = "5kr-dq-czT"; */
+"5kr-dq-czT.text" = "ÇAK İKİ";
+
+/* Class = "UILabel"; text = "HIGH FOU"; ObjectID = "5r3-dB-akn"; */
+"5r3-dB-akn.text" = "YÜKSEK FOU";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "6Ju-Ip-KJc"; */
+"6Ju-Ip-KJc.placeholder" = "E-posta";
+
+/* Class = "UILabel"; text = "Minimum withdrawal amount is 20.00 USD. Refer more friends & earn more."; ObjectID = "6dj-SI-BCS"; */
+"6dj-SI-BCS.text" = "Minimum para çekme tutarı 20.00
+  AmerikanDoları. Daha fazla arkadaşa başvurun ve daha fazla kazanın.";
+
+/* Class = "UILabel"; text = "Bangladesh"; ObjectID = "6ld-7B-X7W"; */
+"6ld-7B-X7W.text" = "Bangladeş";
+
+/* Class = "UITextField"; placeholder = "Amount"; ObjectID = "6vK-P3-WWH"; */
+"6vK-P3-WWH.placeholder" = "Miktar";
+
+/* Class = "UILabel"; text = "BKash Details"; ObjectID = "74D-m2-4Yu"; */
+"74D-m2-4Yu.text" = "BKash Ayrıntıları";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "7Da-J9-TRh"; */
+"7Da-J9-TRh.text" = "Hakkımızda";
+
+/* Class = "UILabel"; text = "$0.00"; ObjectID = "7Yl-MO-6JK"; */
+"7Yl-MO-6JK.text" = "0.00 $";
+
+/* Class = "UILabel"; text = "Subtitle Four"; ObjectID = "7ax-UJ-oWK"; */
+"7ax-UJ-oWK.text" = "Altyazı Dört";
+
+/* Class = "UILabel"; text = "12 Months"; ObjectID = "7sc-c7-Foj"; */
+"7sc-c7-Foj.text" = "12 ay";
+
+/* Class = "UILabel"; text = "Device"; ObjectID = "8Nl-hs-yub"; */
+"8Nl-hs-yub.text" = "Cihaz";
+
+/* Class = "UILabel"; text = "Body"; ObjectID = "8SO-Ak-cxh"; */
+"8SO-Ak-cxh.text" = "Gövde";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9KL-ij-RFI"; */
+"9KL-ij-RFI.normalTitle" = "Buton";
+
+/* Class = "UILabel"; text = "VPN Disconnected"; ObjectID = "9X0-XG-tFp"; */
+"9X0-XG-tFp.text" = "VPN Bağlantısı Kesildi";
+
+/* Class = "UILabel"; text = "Country Name"; ObjectID = "9bs-e8-dcO"; */
+"9bs-e8-dcO.text" = "Ülke adı";
+
+/* Class = "UILabel"; text = "Title Three"; ObjectID = "ASe-rT-rie"; */
+"ASe-rT-rie.text" = "Başlık Üç";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "AVR-OK-qk1"; */
+"AVR-OK-qk1.normalTitle" = "Giriş yapmak";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Aj8-uc-jph"; */
+"Aj8-uc-jph.text" = "Etiket";
+
+/* Class = "UILabel"; text = "Subtitle Two"; ObjectID = "B2j-Z2-Ozh"; */
+"B2j-Z2-Ozh.text" = "Altyazı İki";
+
+/* Class = "UILabel"; text = "10-march-2012"; ObjectID = "BfU-HA-ALT"; */
+"BfU-HA-ALT.text" = "10-mart-2012";
+
+/* Class = "UILabel"; text = "$0.00"; ObjectID = "BhI-gd-E6c"; */
+"BhI-gd-E6c.text" = "0.00 $";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Bib-R6-I3O"; */
+"Bib-R6-I3O.placeholder" = "E-posta";
+
+/* Class = "UILabel"; text = "24 Months"; ObjectID = "Bp9-lK-823"; */
+"Bp9-lK-823.text" = "24 ay";
+
+/* Class = "UILabel"; text = "Notification"; ObjectID = "C48-Qg-1ZZ"; */
+"C48-Qg-1ZZ.text" = "Bildirim";
+
+/* Class = "UIButton"; normalTitle = "Disclaimer"; ObjectID = "D7M-MD-5zp"; */
+"D7M-MD-5zp.normalTitle" = "Feragatname";
+
+/* Class = "UILabel"; text = "Make a Call"; ObjectID = "DQM-E3-Z98"; */
+"DQM-E3-Z98.text" = "Arama yap";
+
+/* Class = "UILabel"; text = "Statements"; ObjectID = "Dm9-9t-fBc"; */
+"Dm9-9t-fBc.text" = "İfadeler";
+
+/* Class = "UITextField"; placeholder = "Branch Address/Code"; ObjectID = "E8E-H5-IsM"; */
+"E8E-H5-IsM.placeholder" = "Şube Adresi/Kodu";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "E9o-Pn-cKe"; */
+"E9o-Pn-cKe.text" = "Başlık";
+
+/* Class = "UILabel"; text = "Feature Description"; ObjectID = "Ecl-y1-Gk2"; */
+"Ecl-y1-Gk2.text" = "Özellik Açıklama";
+
+/* Class = "UITextField"; placeholder = "Enter Referral Code"; ObjectID = "Fgr-pB-oWu"; */
+"Fgr-pB-oWu.placeholder" = "Yönlendirme Kodunu Girin";
+
+/* Class = "UILabel"; text = "Payment Method"; ObjectID = "FuV-xg-BoI"; */
+"FuV-xg-BoI.text" = "Ödeme şekli";
+
+/* Class = "UILabel"; text = "Delete your account permanently"; ObjectID = "Fwr-Xf-ZNz"; */
+"Fwr-Xf-ZNz.text" = "Hesabınızı kalıcı olarak silin";
+
+/* Class = "UILabel"; text = "HIGH THR"; ObjectID = "Gjj-A2-yqW"; */
+"Gjj-A2-yqW.text" = "YÜKSEK THR";
+
+/* Class = "UILabel"; text = "Pay for Best"; ObjectID = "Gp8-Dj-t4u"; */
+"Gp8-Dj-t4u.text" = "En İyisi İçin Öde";
+
+/* Class = "UILabel"; text = "Version"; ObjectID = "H6N-lM-sDw"; */
+"H6N-lM-sDw.text" = "Sürüm";
+
+/* Class = "UITextField"; placeholder = "Search Server"; ObjectID = "HBk-Ix-dmk"; */
+"HBk-Ix-dmk.placeholder" = "Arama Sunucusu";
+
+/* Class = "UILabel"; text = "PREMIUM"; ObjectID = "I8c-7V-ZeO"; */
+"I8c-7V-ZeO.text" = "ÖDÜL";
+
+/* Class = "UILabel"; text = "Amount"; ObjectID = "I9g-Qd-CPJ"; */
+"I9g-Qd-CPJ.text" = "Miktar";
+
+/* Class = "UILabel"; text = "My Account"; ObjectID = "IXI-nY-qlu"; */
+"IXI-nY-qlu.text" = "Hesabım";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "Jk4-Nq-ZUt"; */
+"Jk4-Nq-ZUt.text" = "Ayarlar";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "K0q-SR-pAm"; */
+"K0q-SR-pAm.title" = "Öğe";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "K1s-DZ-fZr"; */
+"K1s-DZ-fZr.normalTitle" = "Uygulamak";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "K7V-WE-y8m"; */
+"K7V-WE-y8m.text" = "Sürüm 1.5";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "Kt5-vr-40a"; */
+"Kt5-vr-40a.placeholder" = "İsim";
+
+/* Class = "UILabel"; text = "Expiry 10 days"; ObjectID = "L7b-pC-3vC"; */
+"L7b-pC-3vC.text" = "son kullanma tarihi 10 gün";
+
+/* Class = "UILabel"; text = "*********"; ObjectID = "LI9-dL-sKu"; */
+"LI9-dL-sKu.text" = "*********";
+
+/* Class = "UILabel"; text = "Your Referral Code"; ObjectID = "LPk-oO-8a0"; */
+"LPk-oO-8a0.text" = "Yönlendirme Kodunuz";
+
+/* Class = "UILabel"; text = "ALL"; ObjectID = "LTr-Ty-j1O"; */
+"LTr-Ty-j1O.text" = "HERŞEY";
+
+/* Class = "UITextField"; placeholder = "Bank Name"; ObjectID = "LZN-yX-sED"; */
+"LZN-yX-sED.placeholder" = "Banka adı";
+
+/* Class = "UILabel"; text = "Sub Title"; ObjectID = "LoB-Kf-V96"; */
+"LoB-Kf-V96.text" = "Alt yazı";
+
+/* Class = "UILabel"; text = "Earn up to $6 per refer"; ObjectID = "M10-MG-KhM"; */
+"M10-MG-KhM.text" = "Yönlendirme başına 6$'a kadar kazanın";
+
+/* Class = "UILabel"; text = "Use the web securely even if your VPN Connection drops! Turn always-on vpn from settings"; ObjectID = "MTP-W6-SV6"; */
+"MTP-W6-SV6.text" = "VPN Bağlantınız kesilse bile web'i güvenle kullanın! Her zaman açık vpn'yi ayarlardan açın";
+
+/* Class = "UILabel"; text = "Your Friend"; ObjectID = "MTy-uj-Af5"; */
+"MTy-uj-Af5.text" = "Senin arkadaşın";
+
+/* Class = "UILabel"; text = "$1"; ObjectID = "MVQ-3j-0dz"; */
+"MVQ-3j-0dz.text" = "1 dolar";
+
+/* Class = "UIButton"; normalTitle = "Get Support"; ObjectID = "MYD-Zb-FJY"; */
+"MYD-Zb-FJY.normalTitle" = "Destek almak";
+
+/* Class = "UILabel"; text = "$ 0.00"; ObjectID = "MdW-XI-eAN"; */
+"MdW-XI-eAN.text" = "0.00 $";
+
+/* Class = "UILabel"; text = "abcd@gmail.com"; ObjectID = "MvR-Yu-ePX"; */
+"MvR-Yu-ePX.text" = "abcd@gmail.com";
+
+/* Class = "UITextField"; placeholder = "PayPal Email"; ObjectID = "NXu-yP-sbn"; */
+"NXu-yP-sbn.placeholder" = "PayPal E-postası";
+
+/* Class = "UITextField"; placeholder = "Contact Number"; ObjectID = "NbE-rS-kus"; */
+"NbE-rS-kus.placeholder" = "İletişim numarası";
+
+/* Class = "UILabel"; text = "Bangladesh"; ObjectID = "OCu-AL-CAP"; */
+"OCu-AL-CAP.text" = "Bangladeş";
+
+/* Class = "UILabel"; text = "New User?"; ObjectID = "OP1-Ef-aY0"; */
+"OP1-Ef-aY0.text" = "Yeni kullanıcı?";
+
+/* Class = "UILabel"; text = "Account Status: "; ObjectID = "OTY-pZ-MnX"; */
+"OTY-pZ-MnX.text" = "Hesap durumu:";
+
+/* Class = "UILabel"; text = "Note: You can request a cash out after one month when you reach your minimum withdrawal amount."; ObjectID = "OVO-YB-pxA"; */
+"OVO-YB-pxA.text" = "Not: Minimum para çekme miktarınıza ulaştığınızda bir ay sonra para çekme talebinde bulunabilirsiniz.";
+
+/* Class = "UITextField"; placeholder = "Account Name"; ObjectID = "OsC-yU-qPw"; */
+"OsC-yU-qPw.placeholder" = "Hesap adı";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "PKG-v4-JrS"; */
+"PKG-v4-JrS.normalTitle" = "Parolanızı mı unuttunuz?";
+
+/* Class = "UILabel"; text = "BKash"; ObjectID = "PdR-0b-jeL"; */
+"PdR-0b-jeL.text" = "BKash";
+
+/* Class = "UILabel"; text = "Refer your friend through your Symlex VPN account"; ObjectID = "Pw7-S9-gxk"; */
+"Pw7-S9-gxk.text" = "Symlex VPN hesabınız aracılığıyla arkadaşınıza yönlendirin";
+
+/* Class = "UILabel"; text = "Title Two"; ObjectID = "QZ8-2D-W3e"; */
+"QZ8-2D-W3e.text" = "Başlık İki";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "RC7-GP-uIW"; */
+"RC7-GP-uIW.text" = "Sürüm 1.5";
+
+/* Class = "UILabel"; text = "0 Kbps"; ObjectID = "ROe-EG-pLR"; */
+"ROe-EG-pLR.text" = "0 Kb/sn";
+
+/* Class = "UILabel"; text = "$0.00"; ObjectID = "RTo-i4-nOp"; */
+"RTo-i4-nOp.text" = "0.00 $";
+
+/* Class = "UILabel"; text = "Code"; ObjectID = "Rb1-hP-gsO"; */
+"Rb1-hP-gsO.text" = "kod";
+
+/* Class = "UILabel"; text = "PayPal Details"; ObjectID = "Rqd-uS-bR3"; */
+"Rqd-uS-bR3.text" = "PayPal Ayrıntıları";
+
+/* Class = "UILabel"; text = "Paypal"; ObjectID = "SZx-Uc-J5d"; */
+"SZx-Uc-J5d.text" = "paypal";
+
+/* Class = "UILabel"; text = "HIGH ONE"; ObjectID = "ShE-y6-DeB"; */
+"ShE-y6-DeB.text" = "YÜKSEK BİR";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "SwU-PY-SmJ"; */
+"SwU-PY-SmJ.text" = "Başlık";
+
+/* Class = "UILabel"; text = "Select Country"; ObjectID = "TEm-DG-8eH"; */
+"TEm-DG-8eH.text" = "Ülke Seç";
+
+/* Class = "UILabel"; text = "You"; ObjectID = "U0l-Dm-B5s"; */
+"U0l-Dm-B5s.text" = "Sen";
+
+/* Class = "UILabel"; text = "Always-On VPN"; ObjectID = "U7H-ZN-aLh"; */
+"U7H-ZN-aLh.text" = "Her Zaman Açık VPN";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "UBK-Xc-vkp"; */
+"UBK-Xc-vkp.normalTitle" = "Göndermek";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "UHv-cC-wrl"; */
+"UHv-cC-wrl.text" = "Sürüm 1.5";
+
+/* Class = "UILabel"; text = "6 Months"; ObjectID = "V7h-X2-YzI"; */
+"V7h-X2-YzI.text" = "6 ay";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "VQz-mL-eYd"; */
+"VQz-mL-eYd.normalTitle" = "Gizlilik Politikası";
+
+/* Class = "UILabel"; text = "Device added by you"; ObjectID = "VSh-Vf-hgU"; */
+"VSh-Vf-hgU.text" = "Sizin tarafınızdan eklenen cihaz";
+
+/* Class = "UIButton"; normalTitle = "Watch video"; ObjectID = "W9z-3Z-X0W"; */
+"W9z-3Z-X0W.normalTitle" = "Video izle";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "WJy-gj-7uZ"; */
+"WJy-gj-7uZ.text" = "Parola";
+
+/* Class = "UILabel"; text = "Platform Name"; ObjectID = "WMp-ug-09q"; */
+"WMp-ug-09q.text" = "Platform Adı";
+
+/* Class = "UILabel"; text = "Title One"; ObjectID = "Weu-ci-OpE"; */
+"Weu-ci-OpE.text" = "Başlık Bir";
+
+/* Class = "UILabel"; text = "Download"; ObjectID = "WrE-ih-mgE"; */
+"WrE-ih-mgE.text" = "İndirmek";
+
+/* Class = "UILabel"; text = "How does It work?"; ObjectID = "Wyq-ae-sjf"; */
+"Wyq-ae-sjf.text" = "O nasıl çalışır?";
+
+/* Class = "UILabel"; text = "Security and privacy alerts, tips, offers"; ObjectID = "XLo-an-pYb"; */
+"XLo-an-pYb.text" = "Güvenlik ve gizlilik uyarıları, ipuçları, teklifler";
+
+/* Class = "UIButton"; normalTitle = "Signup Now"; ObjectID = "Y99-5w-bnt"; */
+"Y99-5w-bnt.normalTitle" = "Şimdi kayıt ol";
+
+/* Class = "UILabel"; text = "Unlock All Premium Features"; ObjectID = "YI0-dz-Odj"; */
+"YI0-dz-Odj.text" = "Tüm Premium Özelliklerin Kilidini Açın";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "YLI-WV-UY4"; */
+"YLI-WV-UY4.text" = "Tip";
+
+/* Class = "UILabel"; text = "Check for updates"; ObjectID = "Ycg-05-g31"; */
+"Ycg-05-g31.text" = "Güncellemeleri kontrol et";
+
+/* Class = "UILabel"; text = "Withdraw"; ObjectID = "Z4v-2N-7P4"; */
+"Z4v-2N-7P4.text" = "Geri çekilmek";
+
+/* Class = "UINavigationItem"; title = "Signup"; ObjectID = "ZHc-04-Egh"; */
+"ZHc-04-Egh.title" = "Üye olmak";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "aCe-w8-UAv"; */
+"aCe-w8-UAv.title" = "Tamamlandı";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "aZ3-8T-Go6"; */
+"aZ3-8T-Go6.title" = "Tamamlandı";
+
+/* Class = "UILabel"; text = "Your Available Balance $30"; ObjectID = "abc-La-b5N"; */
+"abc-La-b5N.text" = "Kullanılabilir Bakiyeniz 30 Dolar";
+
+/* Class = "UILabel"; text = "Live Support Team"; ObjectID = "adZ-x6-h6l"; */
+"adZ-x6-h6l.text" = "Canlı Destek Ekibi";
+
+/* Class = "UITextField"; placeholder = "Account Number"; ObjectID = "bCW-gL-M11"; */
+"bCW-gL-M11.placeholder" = "Hesap numarası";
+
+/* Class = "UILabel"; text = "3 Months"; ObjectID = "bt3-Vn-0o5"; */
+"bt3-Vn-0o5.text" = "3 ay";
+
+/* Class = "UILabel"; text = "Watch TV"; ObjectID = "c69-yA-54I"; */
+"c69-yA-54I.text" = "Televizyon izlemek";
+
+/* Class = "UIButton"; normalTitle = "Terms of Service"; ObjectID = "cCp-P3-Koi"; */
+"cCp-P3-Koi.normalTitle" = "Kullanım Şartları";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "cPe-Qb-Pxg"; */
+"cPe-Qb-Pxg.normalTitle" = "Göndermek";
+
+/* Class = "UILabel"; text = "Bank"; ObjectID = "cSf-f9-I4G"; */
+"cSf-f9-I4G.text" = "Banka";
+
+/* Class = "UILabel"; text = "Personal Information"; ObjectID = "cSg-Ai-gtL"; */
+"cSg-Ai-gtL.text" = "Kişisel bilgi";
+
+/* Class = "UILabel"; text = "Withdrawal Amount"; ObjectID = "cgl-LM-hmx"; */
+"cgl-LM-hmx.text" = "Para Çekme Miktarı";
+
+/* Class = "UILabel"; text = "240 Days"; ObjectID = "czA-zy-1re"; */
+"czA-zy-1re.text" = "240 Gün";
+
+/* Class = "UILabel"; text = "Please select a package from below:-"; ObjectID = "dKb-sR-Eew"; */
+"dKb-sR-Eew.text" = "Lütfen aşağıdan bir paket seçin:-";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "dds-Jp-G1t"; */
+"dds-Jp-G1t.text" = "Sürüm 1.5";
+
+/* Class = "UILabel"; text = "$2"; ObjectID = "dmM-jL-rRP"; */
+"dmM-jL-rRP.text" = "2 dolar";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "e9m-JP-2i2"; */
+"e9m-JP-2i2.text" = "Sürüm 1.5";
+
+/* Class = "UILabel"; text = "Unlock All Features"; ObjectID = "eSc-aO-Lqh"; */
+"eSc-aO-Lqh.text" = "Tüm Özelliklerin Kilidini Açın";
+
+/* Class = "UILabel"; text = "Support"; ObjectID = "eij-72-Xep"; */
+"eij-72-Xep.text" = "Destek olmak";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "ewh-Dg-vbf"; */
+"ewh-Dg-vbf.placeholder" = "Adres";
+
+/* Class = "UILabel"; text = "Subtitle Three"; ObjectID = "f2y-gV-ryr"; */
+"f2y-gV-ryr.text" = "Altyazı Üç";
+
+/* Class = "UILabel"; text = "Upload"; ObjectID = "fAv-q3-Lg5"; */
+"fAv-q3-Lg5.text" = "Yüklemek";
+
+/* Class = "UILabel"; text = "Change Location"; ObjectID = "fes-zf-PPx"; */
+"fes-zf-PPx.text" = "Yer değiştir";
+
+/* Class = "UILabel"; text = "Hi, we have received your cash withdrawal request. Please wait while we are processing your request, it may take  10-15 business days to deposit your amount."; ObjectID = "fkW-WZ-hrZ"; */
+"fkW-WZ-hrZ.text" = "Merhaba, nakit çekme talebinizi aldık. Lütfen talebinizi işleme koyarken bekleyin, tutarın yatırılması 10-15 iş günü sürebilir.";
+
+/* Class = "UILabel"; text = "United States"; ObjectID = "g0o-Mc-KNF"; */
+"g0o-Mc-KNF.text" = "Amerika Birleşik Devletleri";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "gDU-jt-gLY"; */
+"gDU-jt-gLY.text" = "Başlık";
+
+/* Class = "UILabel"; text = "Refer User"; ObjectID = "gIL-zc-a7e"; */
+"gIL-zc-a7e.text" = "Kullanıcıya Başvurun";
+
+/* Class = "UILabel"; text = "CountryName"; ObjectID = "gbB-wP-IUM"; */
+"gbB-wP-IUM.text" = "Ülke adı";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "hA2-Yk-fx8"; */
+"hA2-Yk-fx8.text" = "Başlık";
+
+/* Class = "UILabel"; text = "We will email your current password"; ObjectID = "hdp-5h-5W6"; */
+"hdp-5h-5W6.text" = "Mevcut şifrenizi e-posta ile göndereceğiz";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "hic-BS-11G"; */
+"hic-BS-11G.placeholder" = "Parola";
+
+/* Class = "UINavigationItem"; title = "Log In"; ObjectID = "hqW-rR-X6b"; */
+"hqW-rR-X6b.title" = "Giriş yapmak";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "i0c-aX-Uab"; */
+"i0c-aX-Uab.normalTitle" = "Tamamlandı";
+
+/* Class = "UILabel"; text = "Notification"; ObjectID = "iHU-7e-cOP"; */
+"iHU-7e-cOP.text" = "Bildirim";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "j28-Wo-Gpi"; */
+"j28-Wo-Gpi.text" = "Ayarlar";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "jC8-WY-KXU"; */
+"jC8-WY-KXU.text" = "Hakkımızda";
+
+/* Class = "UILabel"; text = "No device found"; ObjectID = "jTw-JA-Znq"; */
+"jTw-JA-Znq.text" = "Aygıt bulunamadı";
+
+/* Class = "UILabel"; text = "Get Support"; ObjectID = "jUg-Mg-3ZE"; */
+"jUg-Mg-3ZE.text" = "Destek almak";
+
+/* Class = "UILabel"; text = "$0.00"; ObjectID = "jUh-Zf-upg"; */
+"jUh-Zf-upg.text" = "0.00 $";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lDK-qk-bUe"; */
+"lDK-qk-bUe.text" = "Etiket";
+
+/* Class = "UIButton"; configuration.title = "Reload"; ObjectID = "lGR-Sb-Qga"; */
+"lGR-Sb-Qga.configuration.title" = "Tekrar yükle";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lGR-Sb-Qga"; */
+"lGR-Sb-Qga.normalTitle" = "Buton";
+
+/* Class = "UILabel"; text = "BKash"; ObjectID = "lPw-tR-tvz"; */
+"lPw-tR-tvz.text" = "BKash";
+
+/* Class = "UILabel"; text = "Ping"; ObjectID = "lZ5-ED-0OU"; */
+"lZ5-ED-0OU.text" = "ping";
+
+/* Class = "UILabel"; text = "You and your friends get rewards in the respective accounts"; ObjectID = "mb4-jd-rS6"; */
+"mb4-jd-rS6.text" = "Sen ve arkadaşların almak ilgili hesaplardaki ödüller";
+
+/* Class = "UILabel"; text = "EROR"; ObjectID = "mwC-dZ-cCr"; */
+"mwC-dZ-cCr.text" = "HATA";
+
+/* Class = "UILabel"; text = "Title Four"; ObjectID = "n1t-eS-Yxt"; */
+"n1t-eS-Yxt.text" = "Başlık Dört";
+
+/* Class = "UILabel"; text = "Available Bonus:"; ObjectID = "nIW-wb-4Y2"; */
+"nIW-wb-4Y2.text" = "Mevcut Bonus:";
+
+/* Class = "UILabel"; text = "$3"; ObjectID = "nRf-XR-mWB"; */
+"nRf-XR-mWB.text" = "3 dolar";
+
+/* Class = "UILabel"; text = "Packages"; ObjectID = "oVR-GK-BAY"; */
+"oVR-GK-BAY.text" = "Paketler";
+
+/* Class = "UILabel"; text = "$4"; ObjectID = "odm-db-Szs"; */
+"odm-db-Szs.text" = "4 dolar";
+
+/* Class = "UILabel"; text = "$1.5"; ObjectID = "oiT-H2-ZvF"; */
+"oiT-H2-ZvF.text" = "1.5 dolar";
+
+/* Class = "UITextView"; text = "# We do not store any logs # We do not collect any data # We cannot identify individuals # We protect your privacy # We do not store your original IP address # We do not sell or disclose any personal data to third parties"; ObjectID = "oqX-k2-H0a"; */
+"oqX-k2-H0a.text" = "# hiçbirini saklamıyoruz kütükler # hiç toplamıyoruz veri # tanımlayamıyoruz bireyler # biz sizi koruyoruz mahremiyet # Orijinal IP'nizi saklamıyoruz adres # Herhangi bir kişisel veriyi üçüncü taraflara satmıyor veya ifşa etmiyoruz";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "p0t-0c-gJP"; */
+"p0t-0c-gJP.text" = "Parolanızı mı unuttunuz";
+
+/* Class = "UILabel"; text = "Your friend purchases a premium subscription"; ObjectID = "pNh-Gh-pqj"; */
+"pNh-Gh-pqj.text" = "arkadaşın satın alıyor a premium abonelik";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "q0T-z5-KoZ"; */
+"q0T-z5-KoZ.text" = "E-posta";
+
+/* Class = "UILabel"; text = "$3"; ObjectID = "qEh-wc-5ZK"; */
+"qEh-wc-5ZK.text" = "3 dolar";
+
+/* Class = "UILabel"; text = "0 Ms"; ObjectID = "qXq-tL-RNN"; */
+"qXq-tL-RNN.text" = "0 Bayan";
+
+/* Class = "UILabel"; text = "Refer & Earn"; ObjectID = "qxd-8Z-wSu"; */
+"qxd-8Z-wSu.text" = "Bak ve Kazan";
+
+/* Class = "UILabel"; text = "Delete Account"; ObjectID = "r0Q-gy-kcf"; */
+"r0Q-gy-kcf.text" = "Hesabı sil";
+
+/* Class = "UILabel"; text = "Expired on"; ObjectID = "rZS-tY-gRV"; */
+"rZS-tY-gRV.text" = "Süresi dolmuş";
+
+/* Class = "UILabel"; text = "App Version-1.00"; ObjectID = "s4g-8V-bLp"; */
+"s4g-8V-bLp.text" = "Uygulama Sürümü-1.00";
+
+/* Class = "UITextField"; placeholder = "USERNAME"; ObjectID = "s7e-Sg-7tN"; */
+"s7e-Sg-7tN.placeholder" = "KULLANICI ADI";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "sBj-3j-Tcb"; */
+"sBj-3j-Tcb.placeholder" = "Şifreyi Onayla";
+
+/* Class = "UILabel"; text = "Account Information"; ObjectID = "sKM-98-zws"; */
+"sKM-98-zws.text" = "Hesap Bilgileri";
+
+/* Class = "UILabel"; text = "Account Status"; ObjectID = "sNW-zP-rgi"; */
+"sNW-zP-rgi.text" = "hesap durumu";
+
+/* Class = "UILabel"; text = "$0.5"; ObjectID = "sNe-0Q-3om"; */
+"sNe-0Q-3om.text" = "0.5 dolar";
+
+/* Class = "UILabel"; text = "Server"; ObjectID = "sPt-hD-bU1"; */
+"sPt-hD-bU1.text" = "Sunucu";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "sSK-8M-R5C"; */
+"sSK-8M-R5C.normalTitle" = "Göndermek";
+
+/* Class = "UILabel"; text = "(OS Name)"; ObjectID = "sjc-uV-hmY"; */
+"sjc-uV-hmY.text" = "(İşletim Sistemi Adı)";
+
+/* Class = "UILabel"; text = "Buy Premium for unlocking all features"; ObjectID = "tQx-nO-Ton"; */
+"tQx-nO-Ton.text" = "Tüm özelliklerin kilidini açmak için Premium Satın Alın";
+
+/* Class = "UILabel"; text = "$5"; ObjectID = "uHw-vq-4RB"; */
+"uHw-vq-4RB.text" = "5 dolar";
+
+/* Class = "UIButton"; normalTitle = "Withdraw Your Bonus"; ObjectID = "uc8-5V-0oR"; */
+"uc8-5V-0oR.normalTitle" = "Bonusunuzu Çekin";
+
+/* Class = "UITextField"; placeholder = "Swift Code/IBAN Number"; ObjectID = "usq-7I-8oD"; */
+"usq-7I-8oD.placeholder" = "Swift Kodu/IBAN Numarası";
+
+/* Class = "UIButton"; normalTitle = "START"; ObjectID = "uzz-nj-EGk"; */
+"uzz-nj-EGk.normalTitle" = "BAŞLAT";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "vRW-LS-5Pz"; */
+"vRW-LS-5Pz.normalTitle" = "Gizlilik Politikası";
+
+/* Class = "UILabel"; text = "Enter the registered email address"; ObjectID = "vm9-La-Ieg"; */
+"vm9-La-Ieg.text" = "Kayıtlı e-posta adresini girin";
+
+/* Class = "UILabel"; text = "$6"; ObjectID = "w1r-qN-qWC"; */
+"w1r-qN-qWC.text" = "6 dolar";
+
+/* Class = "UIButton"; normalTitle = "Refund Policy"; ObjectID = "wAu-Su-igL"; */
+"wAu-Su-igL.normalTitle" = "Geri ödeme politikası";
+
+/* Class = "UILabel"; text = "Your friend signs up and redeems your code in their wallet"; ObjectID = "yRI-2d-esB"; */
+"yRI-2d-esB.text" = "arkadaşın kayıt oldu ve kodunuzu cüzdanlarında kullanır";
+
+/* Class = "UILabel"; text = "Refer Code"; ObjectID = "yVL-49-rff"; */
+"yVL-49-rff.text" = "Referans Kodu";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "yZ1-uS-E9i"; */
+"yZ1-uS-E9i.text" = "Tarih";
+
+/* Class = "UILabel"; text = "My Account"; ObjectID = "ypw-WY-dsj"; */
+"ypw-WY-dsj.text" = "Hesabım";
+
+/* Class = "UILabel"; text = "Redeem Your Code"; ObjectID = "ytb-gX-Sef"; */
+"ytb-gX-Sef.text" = "Kodunuzu Kullanın";
+
+/* Class = "UILabel"; text = "TransactionID"; ObjectID = "zsF-Pj-fSt"; */
+"zsF-Pj-fSt.text" = "İşlem Kimliği";
+
+/* Class = "UITextField"; placeholder = "Number"; ObjectID = "zzE-ol-Xts"; */
+"zzE-ol-Xts.placeholder" = "Sayı";
+
+/* Class = "UILabel"; text = "Refer & Earn"; ObjectID = "22k-6b-DwH"; */
+"22k-6b-DwH.text" = "Bak ve Kazan";
+
+/* Class = "UILabel"; text = "Platform Name"; ObjectID = "WMp-ug-09q"; */
+"WMp-ug-09q.text" = "Platform Adı";

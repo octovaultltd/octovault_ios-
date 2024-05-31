@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-OctoVaultVPN/Pods-OctoVaultVPN-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/Appirater/Appirater.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/gRPC-C++/gRPCCertificates-Cpp.bundle

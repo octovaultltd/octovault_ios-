@@ -1,0 +1,1 @@
+../../../OpenVPNAdapter/Sources/OpenVPNAdapter/OpenVPNMinTLSVersion.h

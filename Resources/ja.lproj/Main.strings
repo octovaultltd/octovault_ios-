@@ -1,0 +1,510 @@
+
+/* Class = "UILabel"; text = "Password:"; ObjectID = "0A8-cq-19d"; */
+"0A8-cq-19d.text" = "パスワード:";
+
+/* Class = "UILabel"; text = "Newyork"; ObjectID = "0Td-Di-GEk"; */
+"0Td-Di-GEk.text" = "ニューヨーク";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "1MW-aH-gpB"; */
+"1MW-aH-gpB.text" = "通知";
+
+/* Class = "UILabel"; text = "FAVORITE"; ObjectID = "1j6-cw-sek"; */
+"1j6-cw-sek.text" = "お気に入り";
+
+/* Class = "UIButton"; normalTitle = "Agree & Continue"; ObjectID = "1zM-eM-hZc"; */
+"1zM-eM-hZc.normalTitle" = "同意して続行";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "2FG-A8-hFe"; */
+"2FG-A8-hFe.text" = "バージョン1.5";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "37z-kD-62a"; */
+"37z-kD-62a.text" = "Label";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "3FD-qg-Wxb"; */
+"3FD-qg-Wxb.text" = "バージョン 1.5";
+
+/* Class = "UILabel"; text = "BUY PREMIUM"; ObjectID = "3om-XN-0NA"; */
+"3om-XN-0NA.text" = "プレミアムを購入";
+
+/* Class = "UITextField"; placeholder = "PASSWORD"; ObjectID = "4Cv-Pq-OuI"; */
+"4Cv-Pq-OuI.placeholder" = "パスワード";
+
+/* Class = "UIButton"; normalTitle = "Contact Via Facebook"; ObjectID = "4Jk-vM-kU8"; */
+"4Jk-vM-kU8.normalTitle" = "フェイスブック 経由で連絡する";
+
+/* Class = "UILabel"; text = "Mb/s"; ObjectID = "4ca-R9-naK"; */
+"4ca-R9-naK.text" = "メガバイト/秒";
+
+/* Class = "UILabel"; text = "Signup"; ObjectID = "4dH-yB-Boe"; */
+"4dH-yB-Boe.text" = "サインアップ";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "54m-13-GUY"; */
+"54m-13-GUY.title" = "終わり";
+
+/* Class = "UILabel"; text = "N.B: Amount will be charged in BDT. 1 USD = 85 BDT (Approximately) \nDo Not need Mobile Number if you don't have Bangladesh Number"; ObjectID = "5Ge-he-2T9"; */
+"5Ge-he-2T9.text" = "注：金額はBDTで請求されます。 1米ドル= 85 BDT（約）\ nバングラデシュ番号がない場合は携帯電話番号は必要ありません";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "6Ju-Ip-KJc"; */
+"6Ju-Ip-KJc.placeholder" = "Eメール";
+
+/* Class = "UILabel"; text = "Bangladesh"; ObjectID = "6ld-7B-X7W"; */
+"6ld-7B-X7W.text" = "バングラデシュ";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "7Da-J9-TRh"; */
+"7Da-J9-TRh.text" = "私たちに関しては";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "8SO-Ak-cxh"; */
+"8SO-Ak-cxh.text" = "題名";
+
+/* Class = "UILabel"; text = "VPN IS OFF"; ObjectID = "9X0-XG-tFp"; */
+"9X0-XG-tFp.text" = "VPN がオフです";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "AVR-OK-qk1"; */
+"AVR-OK-qk1.normalTitle" = "ログイン";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Aj8-uc-jph"; */
+"Aj8-uc-jph.text" = "ラベル";
+
+/* Class = "UIButton"; normalTitle = "Press to Connect"; ObjectID = "BVI-2j-AYH"; */
+"BVI-2j-AYH.normalTitle" = "を押して接続します";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Bib-R6-I3O"; */
+"Bib-R6-I3O.placeholder" = "Eメール";
+
+/* Class = "UILabel"; text = "Notification"; ObjectID = "C48-Qg-1ZZ"; */
+"C48-Qg-1ZZ.text" = "通知";
+
+/* Class = "UIButton"; normalTitle = "Disclaimer"; ObjectID = "D7M-MD-5zp"; */
+"D7M-MD-5zp.normalTitle" = "免責事項";
+
+/* Class = "UILabel"; text = "Download Symlex Call"; ObjectID = "DQM-E3-Z98"; */
+"DQM-E3-Z98.text" = "SymlexCallをダウンロードする";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "E9o-Pn-cKe"; */
+"E9o-Pn-cKe.text" = "題名";
+
+/* Class = "UILabel"; text = "Fastest Server"; ObjectID = "Fx5-pf-qaM"; */
+"Fx5-pf-qaM.text" = "最速のサーバー";
+
+/* Class = "UIButton"; normalTitle = "Send Email"; ObjectID = "Gtu-Lo-Wui"; */
+"Gtu-Lo-Wui.normalTitle" = "メールを送る";
+
+/* Class = "UILabel"; text = "Version"; ObjectID = "H6N-lM-sDw"; */
+"H6N-lM-sDw.text" = "バージョン";
+
+/* Class = "UITextField"; placeholder = "Search Server"; ObjectID = "HBk-Ix-dmk"; */
+"HBk-Ix-dmk.placeholder" = "検索サーバー";
+
+/* Class = "UILabel"; text = "User Name:"; ObjectID = "Hpf-BA-FmT"; */
+"Hpf-BA-FmT.text" = "ユーザー名:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ILC-gJ-fSl"; */
+"ILC-gJ-fSl.text" = "ラベル";
+
+/* Class = "UILabel"; text = "Premium Purchase"; ObjectID = "J8P-3m-H0C"; */
+"J8P-3m-H0C.text" = "プレミアム購入";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "Jk4-Nq-ZUt"; */
+"Jk4-Nq-ZUt.text" = "設定";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "K0q-SR-pAm"; */
+"K0q-SR-pAm.title" = "アイテム";
+
+/* Class = "UILabel"; text = "Mb/s"; ObjectID = "K1q-6v-gKG"; */
+"K1q-6v-gKG.text" = "メガバイト/秒";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "K7V-WE-y8m"; */
+"K7V-WE-y8m.text" = "バージョン1.5";
+
+/* Class = "UILabel"; text = "Expiry 10 days"; ObjectID = "L7b-pC-3vC"; */
+"L7b-pC-3vC.text" = "有効期限10日";
+
+/* Class = "UILabel"; text = "Test1234"; ObjectID = "LSO-0b-Pn2"; */
+"LSO-0b-Pn2.text" = "Test1234";
+
+/* Class = "UILabel"; text = "ALL"; ObjectID = "LTr-Ty-j1O"; */
+"LTr-Ty-j1O.text" = "全て";
+
+/* Class = "UILabel"; text = "Use the web securely even if your VPN Connection drops! Turn always-on vpn from settings"; ObjectID = "MTP-W6-SV6"; */
+"MTP-W6-SV6.text" = "VPN接続が切断された場合でも、Webを安全に使用してください。設定から常時接続VPNをオンにする";
+
+/* Class = "UIButton"; normalTitle = "Get Support"; ObjectID = "MYD-Zb-FJY"; */
+"MYD-Zb-FJY.normalTitle" = "支持を得ます";
+
+/* Class = "UILabel"; text = "Bangladesh"; ObjectID = "OCu-AL-CAP"; */
+"OCu-AL-CAP.text" = "バングラデシュ";
+
+/* Class = "UILabel"; text = "New User?"; ObjectID = "OP1-Ef-aY0"; */
+"OP1-Ef-aY0.text" = "新しいユーザー？";
+
+/* Class = "UILabel"; text = "Account Status: "; ObjectID = "OTY-pZ-MnX"; */
+"OTY-pZ-MnX.text" = "アカウントのステータス: ";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "PKG-v4-JrS"; */
+"PKG-v4-JrS.normalTitle" = "パスワードをお忘れですか？";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Qbc-zn-kng"; */
+"Qbc-zn-kng.text" = "ラベル";
+
+/* Class = "UILabel"; text = "Ping 99/ms"; ObjectID = "Qog-2I-rvh"; */
+"Qog-2I-rvh.text" = "ピング 99/ミリ秒";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "RC7-GP-uIW"; */
+"RC7-GP-uIW.text" = "バージョン1.5";
+
+/* Class = "UILabel"; text = "Please select a package"; ObjectID = "T8Q-0E-yZW"; */
+"T8Q-0E-yZW.text" = "パッケージを選択してください";
+
+/* Class = "UILabel"; text = "Kill Switch"; ObjectID = "U7H-ZN-aLh"; */
+"U7H-ZN-aLh.text" = "常時オン VPN";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "UBK-Xc-vkp"; */
+"UBK-Xc-vkp.normalTitle" = "送信";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "UHv-cC-wrl"; */
+"UHv-cC-wrl.text" = "バージョン 1.5";
+
+/* Class = "UILabel"; text = "Ms"; ObjectID = "Uct-Pj-963"; */
+"Uct-Pj-963.text" = "MS";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "VQz-mL-eYd"; */
+"VQz-mL-eYd.normalTitle" = "プライバシーポリシー";
+
+/* Class = "UILabel"; text = "Security and privacy alerts, tips, offers"; ObjectID = "XLo-an-pYb"; */
+"XLo-an-pYb.text" = "セキュリティとプライバシーのアラート、ヒント、オファー";
+
+/* Class = "UIButton"; normalTitle = "Signup Now"; ObjectID = "Y99-5w-bnt"; */
+"Y99-5w-bnt.normalTitle" = "今すぐサインアップ";
+
+/* Class = "UILabel"; text = "Check for updates"; ObjectID = "Ycg-05-g31"; */
+"Ycg-05-g31.text" = "アップデートを確認する";
+
+/* Class = "UINavigationItem"; title = "Signup"; ObjectID = "ZHc-04-Egh"; */
+"ZHc-04-Egh.title" = "サインアップ";
+
+/* Class = "UILabel"; text = "Rate Us"; ObjectID = "aV6-EA-6ad"; */
+"aV6-EA-6ad.text" = "私たちを評価してください";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "aZ3-8T-Go6"; */
+"aZ3-8T-Go6.title" = "終わり";
+
+/* Class = "UILabel"; text = "Servers"; ObjectID = "b9w-4x-oAM"; */
+"b9w-4x-oAM.text" = "サーバー";
+
+/* Class = "UIButton"; normalTitle = "Terms of Service"; ObjectID = "cCp-P3-Koi"; */
+"cCp-P3-Koi.normalTitle" = "利用規約";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "cPe-Qb-Pxg"; */
+"cPe-Qb-Pxg.normalTitle" = "送信";
+
+/* Class = "UILabel"; text = "Please select a package from below:-"; ObjectID = "dKb-sR-Eew"; */
+"dKb-sR-Eew.text" = "以下からパッケージを選択してください:-";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "dds-Jp-G1t"; */
+"dds-Jp-G1t.text" = "バージョン 1.5";
+
+/* Class = "UIButton"; normalTitle = "WhatsApp"; ObjectID = "dvB-qC-ItJ"; */
+"dvB-qC-ItJ.normalTitle" = "ワッツアップ";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "e9m-JP-2i2"; */
+"e9m-JP-2i2.text" = "バージョン 1.5";
+
+/* Class = "UILabel"; text = "Change Location"; ObjectID = "fes-zf-PPx"; */
+"fes-zf-PPx.text" = "地域を変更";
+
+/* Class = "UILabel"; text = "United States"; ObjectID = "g0o-Mc-KNF"; */
+"g0o-Mc-KNF.text" = "アメリカ";
+
+/* Class = "UILabel"; text = "We will email your current password"; ObjectID = "hdp-5h-5W6"; */
+"hdp-5h-5W6.text" = "現在のパスワードをメールで送信します";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "hic-BS-11G"; */
+"hic-BS-11G.placeholder" = "パスワード";
+
+/* Class = "UINavigationItem"; title = "Log In"; ObjectID = "hqW-rR-X6b"; */
+"hqW-rR-X6b.title" = "ログインする";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "i5s-CG-Wbm"; */
+"i5s-CG-Wbm.text" = "バージョン 1.5";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "j28-Wo-Gpi"; */
+"j28-Wo-Gpi.text" = "設定";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "jC8-WY-KXU"; */
+"jC8-WY-KXU.text" = "私たちに関しては";
+
+/* Class = "UILabel"; text = "Get Support"; ObjectID = "jUg-Mg-3ZE"; */
+"jUg-Mg-3ZE.text" = "支持を得ます";
+
+/* Class = "UILabel"; text = "Get Support"; ObjectID = "jgw-7d-ph3"; */
+"jgw-7d-ph3.text" = "支持を得ます";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "k0g-P4-0pK"; */
+"k0g-P4-0pK.normalTitle" = "ログアウト";
+
+/* Class = "UILabel"; text = "Account Status: "; ObjectID = "sNW-zP-rgi"; */
+"sNW-zP-rgi.text" = "アカウントのステータス: ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lDK-qk-bUe"; */
+"lDK-qk-bUe.text" = "ラベル";
+
+/* Class = "UILabel"; text = "Version"; ObjectID = "mpQ-cZ-xtc"; */
+"mpQ-cZ-xtc.text" = "バージョン";
+
+/* Class = "UILabel"; text = "EROR"; ObjectID = "mwC-dZ-cCr"; */
+"mwC-dZ-cCr.text" = "エラー";
+
+/* Class = "UIButton"; normalTitle = "Contact Via Website"; ObjectID = "niX-fU-K6H"; */
+"niX-fU-K6H.normalTitle" = "ウェブサイト経由でお問い合わせ";
+
+/* Class = "UITextView"; text = "# We do not store any logs # We do not collect any data # We cannot identify individuals # We protect your privacy # We do not store your original IP address # We do not sell or disclose any personal data to third parties"; ObjectID = "oqX-k2-H0a"; */
+"oqX-k2-H0a.text" = "＃ログは保存しません＃データは収集しません＃個人を特定できません＃プライバシーを保護します＃元のIPアドレスを保存しません＃個人データを第三者に販売または開示しません";
+
+/* Class = "UILabel"; text = "Scratch Card"; ObjectID = "osR-IA-pfv"; */
+"osR-IA-pfv.text" = "スクラッチカード";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "p0t-0c-gJP"; */
+"p0t-0c-gJP.text" = "パスワードをお忘れですか";
+
+/* Class = "UILabel"; text = "N.B: Amount will be charged in BDT. 1 USD = 85 BDT (Approximately) \nDo Not need Mobile Number if you don't have Bangladesh Number"; ObjectID = "pRz-rT-bzk"; */
+"pRz-rT-bzk.text" = "注：金額はBDTで請求されます。 1米ドル= 85 BDT（約）\ nバングラデシュ番号がない場合は携帯電話番号は必要ありません";
+
+/* Class = "UILabel"; text = "Expiry 10 days"; ObjectID = "ru3-c9-e4m"; */
+"ru3-c9-e4m.text" = "有効期限10日";
+
+/* Class = "UILabel"; text = "Network Strength"; ObjectID = "s1m-AE-pAK"; */
+"s1m-AE-pAK.text" = "ネットワークの強さ";
+
+/* Class = "UITextField"; placeholder = "USERNAME"; ObjectID = "s7e-Sg-7tN"; */
+"s7e-Sg-7tN.placeholder" = "ユーザー名";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "sBj-3j-Tcb"; */
+"sBj-3j-Tcb.placeholder" = "パスワードを認証する";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "sGu-Xf-XFk"; */
+"sGu-Xf-XFk.text" = "バージョン 1.5";
+
+/* Class = "UIButton"; normalTitle = "START"; ObjectID = "sJ7-1N-6pW"; */
+"sJ7-1N-6pW.normalTitle" = "始める";
+
+/* Class = "UILabel"; text = "Server"; ObjectID = "sPt-hD-bU1"; */
+"sPt-hD-bU1.text" = "サーバ";
+
+/* Class = "UILabel"; text = "Buy Premimum for unlocking all features"; ObjectID = "tQx-nO-Ton"; */
+"tQx-nO-Ton.text" = "すべての機能のロックを解除するには、Premimumを購入してください";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "ujH-Ly-Xpr"; */
+"ujH-Ly-Xpr.title" = "終わり";
+
+/* Class = "UITextField"; placeholder = "Search Server"; ObjectID = "ukw-cM-WLw"; */
+"ukw-cM-WLw.placeholder" = "検索サーバー";
+
+/* Class = "UIButton"; normalTitle = "START"; ObjectID = "uzz-nj-EGk"; */
+"uzz-nj-EGk.normalTitle" = "始める";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "vRW-LS-5Pz"; */
+"vRW-LS-5Pz.normalTitle" = "プライバシーポリシー";
+
+/* Class = "UILabel"; text = "Enter the registered email address"; ObjectID = "vm9-La-Ieg"; */
+"vm9-La-Ieg.text" = "登録したメールアドレスを入力してください";
+
+/* Class = "UILabel"; text = "My Account"; ObjectID = "IXI-nY-qlu"; */
+"IXI-nY-qlu.text" = "マイアカウント";
+
+/* Class = "UIButton"; normalTitle = "Refund Policy"; ObjectID = "wAu-Su-igL"; */
+"wAu-Su-igL.normalTitle" = "代金返却方針";
+
+/* Class = "UILabel"; text = "My Account"; ObjectID = "ypw-WY-dsj"; */
+"ypw-WY-dsj.text" = "マイアカウント";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "zPz-IZ-WrD"; */
+"zPz-IZ-WrD.text" = "バージョン 1.5";
+
+/* Class = "UILabel"; text = "N/A"; ObjectID = "zdK-VQ-acO"; */
+"zdK-VQ-acO.text" = "該当なし";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zgS-lX-uqA"; */
+"zgS-lX-uqA.text" = "ラベル";
+
+/* Class = "UILabel"; text = "Server Load"; ObjectID = "zx3-F0-ufa"; */
+"zx3-F0-ufa.text" = "サーバーの負荷";
+
+/* Class = "UILabel"; text = "Device"; ObjectID = "8Nl-hs-yub"; */
+"8Nl-hs-yub.text" = "端末";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kgd-6j-bZ5"; */
+"kgd-6j-bZ5.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "RJN-8A-o04"; */
+"RJN-8A-o04.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Device added by you"; ObjectID = "VSh-Vf-hgU"; */
+"VSh-Vf-hgU.text" = "あなたが追加したデバイス";
+
+/* Class = "UILabel"; text = "No device found"; ObjectID = "jTw-JA-Znq"; */
+"jTw-JA-Znq.text" = "デバイスが見つかりません";
+
+/* Class = "UILabel"; text = "VPN Disconnected"; ObjectID = "9X0-XG-tFp"; */
+"9X0-XG-tFp.text" = "VPNが切断されました";
+
+/* Class = "UILabel"; text = "Ping"; ObjectID = "lZ5-ED-0OU"; */
+"lZ5-ED-0OU.text" = "ピン";
+
+/* Class = "UILabel"; text = "Download"; ObjectID = "WrE-ih-mgE"; */
+"WrE-ih-mgE.text" = "ダウンロード";
+
+/* Class = "UILabel"; text = "Upload"; ObjectID = "fAv-q3-Lg5"; */
+"fAv-q3-Lg5.text" = "アップロード";
+
+/* Class = "UILabel"; text = "Pay for best"; ObjectID = "Gp8-Dj-t4u"; */
+"Gp8-Dj-t4u.text" = "最高の支払い";
+
+/* Class = "UILabel"; text = "Account Information"; ObjectID = "sKM-98-zws"; */
+"sKM-98-zws.text" = "口座情報";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "q0T-z5-KoZ"; */
+"q0T-z5-KoZ.text" = "Eメール";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "WJy-gj-7uZ"; */
+"WJy-gj-7uZ.text" = "パスワード";
+
+/* Class = "UILabel"; text = "Unlock all features"; ObjectID = "eSc-aO-Lqh"; */
+"eSc-aO-Lqh.text" = "すべての機能のロックを解除";
+
+/* Class = "UILabel"; text = "BUY PREMIUM"; ObjectID = "1rC-tt-DfG"; */
+"1rC-tt-DfG.text" = "プレミアムを購入";
+
+/* Class = "UILabel"; text = "Expired on"; ObjectID = "rZS-tY-gRV"; */
+"rZS-tY-gRV.text" = "有効期限が切れました";
+
+/* Class = "UILabel"; text = "Support"; ObjectID = "eij-72-Xep"; */
+"eij-72-Xep.text" = "サポート";
+
+/* Class = "UILabel"; text = "Live Support Team"; ObjectID = "adZ-x6-h6l"; */
+"adZ-x6-h6l.text" = "ライブサポートチーム";
+
+/* Class = "UILabel"; text = "Unlock All Premium Features"; ObjectID = "YI0-dz-Odj"; */
+"YI0-dz-Odj.text" = "すべてのプレミアム機能のロックを解除";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "i0c-aX-Uab"; */
+"i0c-aX-Uab.normalTitle" = "終わり";
+
+/* Class = "UILabel"; text = "My Wallet"; ObjectID = "EYb-Pb-ni0"; */
+"EYb-Pb-ni0.text" = "私の財布";
+
+/* Class = "UILabel"; text = "My Wallet"; ObjectID = "qxd-8Z-wSu"; */
+"qxd-8Z-wSu.text" = "私の財布";
+
+/* Class = "UIButton"; normalTitle = "Withdraw Your Balance"; ObjectID = "uc8-5V-0oR"; */
+"uc8-5V-0oR.normalTitle" = "残高を引き出す";
+
+/* Class = "UILabel"; text = "Redeem Your Code"; ObjectID = "ytb-gX-Sef"; */
+"ytb-gX-Sef.text" = "コードを利用する";
+
+/* Class = "UITextField"; placeholder = "Enter Referral Code"; ObjectID = "Fgr-pB-oWu"; */
+"Fgr-pB-oWu.placeholder" = "紹介コードを入力してください";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "K1s-DZ-fZr"; */
+"K1s-DZ-fZr.normalTitle" = "申し込み";
+
+/* Class = "UILabel"; text = "Your Referral Code"; ObjectID = "LPk-oO-8a0"; */
+"LPk-oO-8a0.text" = "あなたの紹介コード";
+
+/* Class = "UILabel"; text = "Packages"; ObjectID = "oVR-GK-BAY"; */
+"oVR-GK-BAY.text" = "パッケージ";
+
+/* Class = "UILabel"; text = "You"; ObjectID = "U0l-Dm-B5s"; */
+"U0l-Dm-B5s.text" = "君";
+
+/* Class = "UILabel"; text = "Your Friend"; ObjectID = "MTy-uj-Af5"; */
+"MTy-uj-Af5.text" = "あなたの友達";
+
+/* Class = "UILabel"; text = "How does It Work?"; ObjectID = "Wyq-ae-sjf"; */
+"Wyq-ae-sjf.text" = "それはどのように機能しますか？";
+
+/* Class = "UILabel"; text = "Refer your friend through your Symlex VPN account"; ObjectID = "Pw7-S9-gxk"; */
+"Pw7-S9-gxk.text" = "SymlexVPNアカウントを介して友達を紹介します";
+
+/* Class = "UILabel"; text = "Your friend signs up and redeems your code in their wallet"; ObjectID = "yRI-2d-esB"; */
+"yRI-2d-esB.text" = "あなたの友人はサインアップしてあなたのコードを彼らの財布に引き換えます";
+
+/* Class = "UILabel"; text = "Your friend purchases a premium subscription"; ObjectID = "pNh-Gh-pqj"; */
+"pNh-Gh-pqj.text" = "友達がプレミアムサブスクリプションを購入する";
+
+/* Class = "UILabel"; text = "You and your friends get rewards in the respective accounts"; ObjectID = "mb4-jd-rS6"; */
+"mb4-jd-rS6.text" = "あなたとあなたの友達はそれぞれのアカウントで報酬を受け取ります";
+
+/* Class = "UILabel"; text = "Statements"; ObjectID = "Dm9-9t-fBc"; */
+"Dm9-9t-fBc.text" = "ステートメント";
+
+/* Class = "UILabel"; text = "Withdraw"; ObjectID = "Z4v-2N-7P4"; */
+"Z4v-2N-7P4.text" = "撤退";
+
+/* Class = "UILabel"; text = "Payment Method"; ObjectID = "FuV-xg-BoI"; */
+"FuV-xg-BoI.text" = "支払方法";
+
+/* Class = "UILabel"; text = "Personal Information"; ObjectID = "cSg-Ai-gtL"; */
+"cSg-Ai-gtL.text" = "個人情報";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "Kt5-vr-40a"; */
+"Kt5-vr-40a.placeholder" = "名前";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "ewh-Dg-vbf"; */
+"ewh-Dg-vbf.placeholder" = "住所";
+
+/* Class = "UILabel"; text = "Code"; ObjectID = "Rb1-hP-gsO"; */
+"Rb1-hP-gsO.text" = "コード";
+
+/* Class = "UITextField"; placeholder = "Contact Number"; ObjectID = "NbE-rS-kus"; */
+"NbE-rS-kus.placeholder" = "連絡先番号";
+
+/* Class = "UILabel"; text = "BKash Details"; ObjectID = "74D-m2-4Yu"; */
+"74D-m2-4Yu.text" = "BKashの詳細";
+
+/* Class = "UITextField"; placeholder = "Number"; ObjectID = "zzE-ol-Xts"; */
+"zzE-ol-Xts.placeholder" = "番号";
+
+/* Class = "UILabel"; text = "PayPal Details"; ObjectID = "Rqd-uS-bR3"; */
+"Rqd-uS-bR3.text" = "ペイパル の詳細";
+
+/* Class = "UITextField"; placeholder = "PayPal Email"; ObjectID = "NXu-yP-sbn"; */
+"NXu-yP-sbn.placeholder" = "ペイパル メール";
+
+/* Class = "UILabel"; text = "Bank Details"; ObjectID = "0H4-Ea-4TU"; */
+"0H4-Ea-4TU.text" = "銀行の詳細";
+
+/* Class = "UITextField"; placeholder = "Bank Name"; ObjectID = "LZN-yX-sED"; */
+"LZN-yX-sED.placeholder" = "銀行名";
+
+/* Class = "UITextField"; placeholder = "Account Name"; ObjectID = "OsC-yU-qPw"; */
+"OsC-yU-qPw.placeholder" = "アカウント名";
+
+/* Class = "UITextField"; placeholder = "Account Number"; ObjectID = "bCW-gL-M11"; */
+"bCW-gL-M11.placeholder" = "口座番号";
+
+/* Class = "UITextField"; placeholder = "Branch Address/Code"; ObjectID = "E8E-H5-IsM"; */
+"E8E-H5-IsM.placeholder" = "支店の住所/コード";
+
+/* Class = "UITextField"; placeholder = "Swift Code/IBAN Number"; ObjectID = "usq-7I-8oD"; */
+"usq-7I-8oD.placeholder" = "スウィフトコード/IBAN番号";
+
+/* Class = "UILabel"; text = "Withdrawal Amount"; ObjectID = "cgl-LM-hmx"; */
+"cgl-LM-hmx.text" = "引き出し額";
+
+/* Class = "UITextField"; placeholder = "Amount"; ObjectID = "6vK-P3-WWH"; */
+"6vK-P3-WWH.placeholder" = "額";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "sSK-8M-R5C"; */
+"sSK-8M-R5C.normalTitle" = "送信";
+
+/* Class = "UILabel"; text = "Delete Account"; ObjectID = "r0Q-gy-kcf"; */
+"r0Q-gy-kcf.text" = "アカウントを削除する";
+
+/* Class = "UILabel"; text = "Delete your account permanently"; ObjectID = "Fwr-Xf-ZNz"; */
+"Fwr-Xf-ZNz.text" = "アカウントを完全に削除する";
+
+/* Class = "UILabel"; text = "Refer & Earn"; ObjectID = "22k-6b-DwH"; */
+"22k-6b-DwH.text" = "紹介して稼ぐ";
+
+/* Class = "UILabel"; text = "Platform Name"; ObjectID = "WMp-ug-09q"; */
+"WMp-ug-09q.text" = "プラットフォーム名";

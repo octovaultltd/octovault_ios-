@@ -1,0 +1,510 @@
+
+/* Class = "UILabel"; text = "Password:"; ObjectID = "0A8-cq-19d"; */
+"0A8-cq-19d.text" = "비밀번호:";
+
+/* Class = "UILabel"; text = "Newyork"; ObjectID = "0Td-Di-GEk"; */
+"0Td-Di-GEk.text" = "뉴욕";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "1MW-aH-gpB"; */
+"1MW-aH-gpB.text" = "알림";
+
+/* Class = "UILabel"; text = "FAVORITE"; ObjectID = "1j6-cw-sek"; */
+"1j6-cw-sek.text" = "가장 좋아하는";
+
+/* Class = "UIButton"; normalTitle = "Agree & Continue"; ObjectID = "1zM-eM-hZc"; */
+"1zM-eM-hZc.normalTitle" = "동의 및 계속";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "2FG-A8-hFe"; */
+"2FG-A8-hFe.text" = "버전 1.5";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "37z-kD-62a"; */
+"37z-kD-62a.text" = "Label";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "3FD-qg-Wxb"; */
+"3FD-qg-Wxb.text" = "버전 1.5";
+
+/* Class = "UILabel"; text = "BUY PREMIUM"; ObjectID = "3om-XN-0NA"; */
+"3om-XN-0NA.text" = "프리미엄 구매";
+
+/* Class = "UITextField"; placeholder = "PASSWORD"; ObjectID = "4Cv-Pq-OuI"; */
+"4Cv-Pq-OuI.placeholder" = "비밀번호";
+
+/* Class = "UIButton"; normalTitle = "Contact Via Facebook"; ObjectID = "4Jk-vM-kU8"; */
+"4Jk-vM-kU8.normalTitle" = "페이스북으로 연락하기";
+
+/* Class = "UILabel"; text = "Mb/s"; ObjectID = "4ca-R9-naK"; */
+"4ca-R9-naK.text" = "메가바이트/초";
+
+/* Class = "UILabel"; text = "Signup"; ObjectID = "4dH-yB-Boe"; */
+"4dH-yB-Boe.text" = "가입하기";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "54m-13-GUY"; */
+"54m-13-GUY.title" = "완료";
+
+/* Class = "UILabel"; text = "N.B: Amount will be charged in BDT. 1 USD = 85 BDT (Approximately) \nDo Not need Mobile Number if you don't have Bangladesh Number"; ObjectID = "5Ge-he-2T9"; */
+"5Ge-he-2T9.text" = "주의: 금액은 BDT로 청구됩니다. 1 USD = 85 BDT(대략)\n방글라데시 번호가 없으면 휴대폰 번호가 필요하지 않습니다.";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "6Ju-Ip-KJc"; */
+"6Ju-Ip-KJc.placeholder" = "이메일";
+
+/* Class = "UILabel"; text = "Bangladesh"; ObjectID = "6ld-7B-X7W"; */
+"6ld-7B-X7W.text" = "방글라데시";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "7Da-J9-TRh"; */
+"7Da-J9-TRh.text" = "회사 소개";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "8SO-Ak-cxh"; */
+"8SO-Ak-cxh.text" = "제목";
+
+/* Class = "UILabel"; text = "VPN IS OFF"; ObjectID = "9X0-XG-tFp"; */
+"9X0-XG-tFp.text" = "VPN이 꺼져 있습니다.";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "AVR-OK-qk1"; */
+"AVR-OK-qk1.normalTitle" = "로그인";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Aj8-uc-jph"; */
+"Aj8-uc-jph.text" = "상표";
+
+/* Class = "UIButton"; normalTitle = "Press to Connect"; ObjectID = "BVI-2j-AYH"; */
+"BVI-2j-AYH.normalTitle" = "연결하려면 누르세요";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Bib-R6-I3O"; */
+"Bib-R6-I3O.placeholder" = "이메일";
+
+/* Class = "UILabel"; text = "Notification"; ObjectID = "C48-Qg-1ZZ"; */
+"C48-Qg-1ZZ.text" = "공고";
+
+/* Class = "UIButton"; normalTitle = "Disclaimer"; ObjectID = "D7M-MD-5zp"; */
+"D7M-MD-5zp.normalTitle" = "부인 성명";
+
+/* Class = "UILabel"; text = "Download Symlex Call"; ObjectID = "DQM-E3-Z98"; */
+"DQM-E3-Z98.text" = "Symlex 호출 다운로드";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "E9o-Pn-cKe"; */
+"E9o-Pn-cKe.text" = "제목";
+
+/* Class = "UILabel"; text = "Fastest Server"; ObjectID = "Fx5-pf-qaM"; */
+"Fx5-pf-qaM.text" = "가장 빠른 서버";
+
+/* Class = "UIButton"; normalTitle = "Send Email"; ObjectID = "Gtu-Lo-Wui"; */
+"Gtu-Lo-Wui.normalTitle" = "이메일을 보내";
+
+/* Class = "UILabel"; text = "Version"; ObjectID = "H6N-lM-sDw"; */
+"H6N-lM-sDw.text" = "버전";
+
+/* Class = "UITextField"; placeholder = "Search Server"; ObjectID = "HBk-Ix-dmk"; */
+"HBk-Ix-dmk.placeholder" = "검색 서버";
+
+/* Class = "UILabel"; text = "User Name:"; ObjectID = "Hpf-BA-FmT"; */
+"Hpf-BA-FmT.text" = "사용자 이름:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ILC-gJ-fSl"; */
+"ILC-gJ-fSl.text" = "상표";
+
+/* Class = "UILabel"; text = "Premium Purchase"; ObjectID = "J8P-3m-H0C"; */
+"J8P-3m-H0C.text" = "프리미엄 구매";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "Jk4-Nq-ZUt"; */
+"Jk4-Nq-ZUt.text" = "설정";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "K0q-SR-pAm"; */
+"K0q-SR-pAm.title" = "안건";
+
+/* Class = "UILabel"; text = "Mb/s"; ObjectID = "K1q-6v-gKG"; */
+"K1q-6v-gKG.text" = "메가바이트/초";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "K7V-WE-y8m"; */
+"K7V-WE-y8m.text" = "버전 1.5";
+
+/* Class = "UILabel"; text = "Expiry 10 days"; ObjectID = "L7b-pC-3vC"; */
+"L7b-pC-3vC.text" = "10일 만료";
+
+/* Class = "UILabel"; text = "Test1234"; ObjectID = "LSO-0b-Pn2"; */
+"LSO-0b-Pn2.text" = "Test1234";
+
+/* Class = "UILabel"; text = "ALL"; ObjectID = "LTr-Ty-j1O"; */
+"LTr-Ty-j1O.text" = "모두";
+
+/* Class = "UILabel"; text = "Use the web securely even if your VPN Connection drops! Turn always-on vpn from settings"; ObjectID = "MTP-W6-SV6"; */
+"MTP-W6-SV6.text" = "VPN 연결이 끊어져도 안전하게 웹을 사용하세요! 설정에서 VPN 항상 켜기";
+
+/* Class = "UIButton"; normalTitle = "Get Support"; ObjectID = "MYD-Zb-FJY"; */
+"MYD-Zb-FJY.normalTitle" = "도움을 받다";
+
+/* Class = "UILabel"; text = "Bangladesh"; ObjectID = "OCu-AL-CAP"; */
+"OCu-AL-CAP.text" = "방글라데시";
+
+/* Class = "UILabel"; text = "New User?"; ObjectID = "OP1-Ef-aY0"; */
+"OP1-Ef-aY0.text" = "새로운 사용자?";
+
+/* Class = "UILabel"; text = "Account Status: "; ObjectID = "OTY-pZ-MnX"; */
+"OTY-pZ-MnX.text" = "계정 상태: ";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "PKG-v4-JrS"; */
+"PKG-v4-JrS.normalTitle" = "비밀번호를 잊으 셨나요?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Qbc-zn-kng"; */
+"Qbc-zn-kng.text" = "상표";
+
+/* Class = "UILabel"; text = "Ping 99/ms"; ObjectID = "Qog-2I-rvh"; */
+"Qog-2I-rvh.text" = "핑 99/ms";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "RC7-GP-uIW"; */
+"RC7-GP-uIW.text" = "버전 1.5";
+
+/* Class = "UILabel"; text = "Please select a package"; ObjectID = "T8Q-0E-yZW"; */
+"T8Q-0E-yZW.text" = "패키지를 선택하세요";
+
+/* Class = "UILabel"; text = "Kill Switch"; ObjectID = "U7H-ZN-aLh"; */
+"U7H-ZN-aLh.text" = "상시 VPN";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "UBK-Xc-vkp"; */
+"UBK-Xc-vkp.normalTitle" = "제출하다";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "UHv-cC-wrl"; */
+"UHv-cC-wrl.text" = "버전 1.5";
+
+/* Class = "UILabel"; text = "Ms"; ObjectID = "Uct-Pj-963"; */
+"Uct-Pj-963.text" = "양";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "VQz-mL-eYd"; */
+"VQz-mL-eYd.normalTitle" = "개인 정보 정책";
+
+/* Class = "UILabel"; text = "Security and privacy alerts, tips, offers"; ObjectID = "XLo-an-pYb"; */
+"XLo-an-pYb.text" = "보안 및 개인 정보 보호 알림, 팁, 제안";
+
+/* Class = "UIButton"; normalTitle = "Signup Now"; ObjectID = "Y99-5w-bnt"; */
+"Y99-5w-bnt.normalTitle" = "지금 등록하세요";
+
+/* Class = "UILabel"; text = "Check for updates"; ObjectID = "Ycg-05-g31"; */
+"Ycg-05-g31.text" = "업데이트 확인";
+
+/* Class = "UINavigationItem"; title = "Signup"; ObjectID = "ZHc-04-Egh"; */
+"ZHc-04-Egh.title" = "가입하기";
+
+/* Class = "UILabel"; text = "Rate Us"; ObjectID = "aV6-EA-6ad"; */
+"aV6-EA-6ad.text" = "평가";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "aZ3-8T-Go6"; */
+"aZ3-8T-Go6.title" = "완료";
+
+/* Class = "UILabel"; text = "Servers"; ObjectID = "b9w-4x-oAM"; */
+"b9w-4x-oAM.text" = "서버";
+
+/* Class = "UIButton"; normalTitle = "Terms of Service"; ObjectID = "cCp-P3-Koi"; */
+"cCp-P3-Koi.normalTitle" = "서비스 약관";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "cPe-Qb-Pxg"; */
+"cPe-Qb-Pxg.normalTitle" = "보내다";
+
+/* Class = "UILabel"; text = "Please select a package from below:-"; ObjectID = "dKb-sR-Eew"; */
+"dKb-sR-Eew.text" = "아래에서 패키지를 선택하세요.:-";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "dds-Jp-G1t"; */
+"dds-Jp-G1t.text" = "버전 1.5";
+
+/* Class = "UIButton"; normalTitle = "WhatsApp"; ObjectID = "dvB-qC-ItJ"; */
+"dvB-qC-ItJ.normalTitle" = "왓츠앱";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "e9m-JP-2i2"; */
+"e9m-JP-2i2.text" = "버전 1.5";
+
+/* Class = "UILabel"; text = "Change Location"; ObjectID = "fes-zf-PPx"; */
+"fes-zf-PPx.text" = "위치를 바꾸다";
+
+/* Class = "UILabel"; text = "United States"; ObjectID = "g0o-Mc-KNF"; */
+"g0o-Mc-KNF.text" = "미국";
+
+/* Class = "UILabel"; text = "We will email your current password"; ObjectID = "hdp-5h-5W6"; */
+"hdp-5h-5W6.text" = "현재 비밀번호를 이메일로 보내드립니다";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "hic-BS-11G"; */
+"hic-BS-11G.placeholder" = "비밀번호";
+
+/* Class = "UINavigationItem"; title = "Log In"; ObjectID = "hqW-rR-X6b"; */
+"hqW-rR-X6b.title" = "로그인";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "i5s-CG-Wbm"; */
+"i5s-CG-Wbm.text" = "버전 1.5";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "j28-Wo-Gpi"; */
+"j28-Wo-Gpi.text" = "설정";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "jC8-WY-KXU"; */
+"jC8-WY-KXU.text" = "회사 소개";
+
+/* Class = "UILabel"; text = "Get Support"; ObjectID = "jUg-Mg-3ZE"; */
+"jUg-Mg-3ZE.text" = "도움을 받다";
+
+/* Class = "UILabel"; text = "Get Support"; ObjectID = "jgw-7d-ph3"; */
+"jgw-7d-ph3.text" = "도움을 받다";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "k0g-P4-0pK"; */
+"k0g-P4-0pK.normalTitle" = "로그 아웃";
+
+/* Class = "UILabel"; text = "Account Status: "; ObjectID = "sNW-zP-rgi"; */
+"sNW-zP-rgi.text" = "계정 상태: ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lDK-qk-bUe"; */
+"lDK-qk-bUe.text" = "상표";
+
+/* Class = "UILabel"; text = "Version"; ObjectID = "mpQ-cZ-xtc"; */
+"mpQ-cZ-xtc.text" = "버전";
+
+/* Class = "UILabel"; text = "EROR"; ObjectID = "mwC-dZ-cCr"; */
+"mwC-dZ-cCr.text" = "오류";
+
+/* Class = "UIButton"; normalTitle = "Contact Via Website"; ObjectID = "niX-fU-K6H"; */
+"niX-fU-K6H.normalTitle" = "웹사이트를 통한 문의";
+
+/* Class = "UITextView"; text = "# We do not store any logs # We do not collect any data # We cannot identify individuals # We protect your privacy # We do not store your original IP address # We do not sell or disclose any personal data to third parties"; ObjectID = "oqX-k2-H0a"; */
+"oqX-k2-H0a.text" = "# 우리는 어떤 로그도 저장하지 않습니다# 우리는 어떤 데이터도 수집하지 않습니다# 우리는 개인을 식별할 수 없습니다# 우리는 당신의 개인 정보를 보호합니다# 우리는 당신의 원래 IP 주소를 저장하지 않습니다# 우리는 제3자에게 개인 데이터를 판매하거나 공개하지 않습니다";
+
+/* Class = "UILabel"; text = "Scratch Card"; ObjectID = "osR-IA-pfv"; */
+"osR-IA-pfv.text" = "스크래치 카드";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "p0t-0c-gJP"; */
+"p0t-0c-gJP.text" = "비밀번호를 잊으 셨나요";
+
+/* Class = "UILabel"; text = "N.B: Amount will be charged in BDT. 1 USD = 85 BDT (Approximately) \nDo Not need Mobile Number if you don't have Bangladesh Number"; ObjectID = "pRz-rT-bzk"; */
+"pRz-rT-bzk.text" = "주의: 금액은 BDT로 청구됩니다. 1 USD = 85 BDT(대략)\n방글라데시 번호가 없으면 휴대폰 번호가 필요하지 않습니다.";
+
+/* Class = "UILabel"; text = "Expiry 10 days"; ObjectID = "ru3-c9-e4m"; */
+"ru3-c9-e4m.text" = "10일 만료";
+
+/* Class = "UILabel"; text = "Network Strength"; ObjectID = "s1m-AE-pAK"; */
+"s1m-AE-pAK.text" = "네트워크 강도";
+
+/* Class = "UITextField"; placeholder = "USERNAME"; ObjectID = "s7e-Sg-7tN"; */
+"s7e-Sg-7tN.placeholder" = "사용자 이름";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "sBj-3j-Tcb"; */
+"sBj-3j-Tcb.placeholder" = "비밀번호 확인";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "sGu-Xf-XFk"; */
+"sGu-Xf-XFk.text" = "버전 1.5";
+
+/* Class = "UIButton"; normalTitle = "START"; ObjectID = "sJ7-1N-6pW"; */
+"sJ7-1N-6pW.normalTitle" = "시작";
+
+/* Class = "UILabel"; text = "Server"; ObjectID = "sPt-hD-bU1"; */
+"sPt-hD-bU1.text" = "섬기는 사람";
+
+/* Class = "UILabel"; text = "Buy Premimum for unlocking all features"; ObjectID = "tQx-nO-Ton"; */
+"tQx-nO-Ton.text" = "모든 기능을 잠금 해제하려면 프리미엄 구매";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "ujH-Ly-Xpr"; */
+"ujH-Ly-Xpr.title" = "완료";
+
+/* Class = "UITextField"; placeholder = "Search Server"; ObjectID = "ukw-cM-WLw"; */
+"ukw-cM-WLw.placeholder" = "검색 서버";
+
+/* Class = "UIButton"; normalTitle = "START"; ObjectID = "uzz-nj-EGk"; */
+"uzz-nj-EGk.normalTitle" = "시작";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "vRW-LS-5Pz"; */
+"vRW-LS-5Pz.normalTitle" = "개인 정보 정책";
+
+/* Class = "UILabel"; text = "Enter the registered email address"; ObjectID = "vm9-La-Ieg"; */
+"vm9-La-Ieg.text" = "등록된 이메일 주소를 입력하세요";
+
+/* Class = "UILabel"; text = "My Account"; ObjectID = "IXI-nY-qlu"; */
+"IXI-nY-qlu.text" = "내 계정";
+
+/* Class = "UIButton"; normalTitle = "Refund Policy"; ObjectID = "wAu-Su-igL"; */
+"wAu-Su-igL.normalTitle" = "환불 정책";
+
+/* Class = "UILabel"; text = "My Account"; ObjectID = "ypw-WY-dsj"; */
+"ypw-WY-dsj.text" = "내 계정";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "zPz-IZ-WrD"; */
+"zPz-IZ-WrD.text" = "버전 1.5";
+
+/* Class = "UILabel"; text = "N/A"; ObjectID = "zdK-VQ-acO"; */
+"zdK-VQ-acO.text" = "해당 없음";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zgS-lX-uqA"; */
+"zgS-lX-uqA.text" = "상표";
+
+/* Class = "UILabel"; text = "Server Load"; ObjectID = "zx3-F0-ufa"; */
+"zx3-F0-ufa.text" = "서버 로드";
+
+/* Class = "UILabel"; text = "Device"; ObjectID = "8Nl-hs-yub"; */
+"8Nl-hs-yub.text" = "장치";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kgd-6j-bZ5"; */
+"kgd-6j-bZ5.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "RJN-8A-o04"; */
+"RJN-8A-o04.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Device added by you"; ObjectID = "VSh-Vf-hgU"; */
+"VSh-Vf-hgU.text" = "내가 추가한 기기";
+
+/* Class = "UILabel"; text = "No device found"; ObjectID = "jTw-JA-Znq"; */
+"jTw-JA-Znq.text" = "장치를 찾을 수 없음";
+
+/* Class = "UILabel"; text = "VPN Disconnected"; ObjectID = "9X0-XG-tFp"; */
+"9X0-XG-tFp.text" = "VPN 연결 끊김";
+
+/* Class = "UILabel"; text = "Ping"; ObjectID = "lZ5-ED-0OU"; */
+"lZ5-ED-0OU.text" = "핑";
+
+/* Class = "UILabel"; text = "Download"; ObjectID = "WrE-ih-mgE"; */
+"WrE-ih-mgE.text" = "다운로드";
+
+/* Class = "UILabel"; text = "Upload"; ObjectID = "fAv-q3-Lg5"; */
+"fAv-q3-Lg5.text" = "업로드";
+
+/* Class = "UILabel"; text = "Pay for best"; ObjectID = "Gp8-Dj-t4u"; */
+"Gp8-Dj-t4u.text" = "최고를 위해 지불하십시오";
+
+/* Class = "UILabel"; text = "Account Information"; ObjectID = "sKM-98-zws"; */
+"sKM-98-zws.text" = "계정 정보";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "q0T-z5-KoZ"; */
+"q0T-z5-KoZ.text" = "이메일";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "WJy-gj-7uZ"; */
+"WJy-gj-7uZ.text" = "비밀번호";
+
+/* Class = "UILabel"; text = "Unlock all features"; ObjectID = "eSc-aO-Lqh"; */
+"eSc-aO-Lqh.text" = "모든 기능 잠금 해제";
+
+/* Class = "UILabel"; text = "BUY PREMIUM"; ObjectID = "1rC-tt-DfG"; */
+"1rC-tt-DfG.text" = "프리미엄 구매";
+
+/* Class = "UILabel"; text = "Expired on"; ObjectID = "rZS-tY-gRV"; */
+"rZS-tY-gRV.text" = "만료일";
+
+/* Class = "UILabel"; text = "Support"; ObjectID = "eij-72-Xep"; */
+"eij-72-Xep.text" = "지원하다";
+
+/* Class = "UILabel"; text = "Live Support Team"; ObjectID = "adZ-x6-h6l"; */
+"adZ-x6-h6l.text" = "라이브 지원팀";
+
+/* Class = "UILabel"; text = "Unlock All Premium Features"; ObjectID = "YI0-dz-Odj"; */
+"YI0-dz-Odj.text" = "모든 프리미엄 기능 잠금 해제";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "i0c-aX-Uab"; */
+"i0c-aX-Uab.normalTitle" = "완료";
+
+/* Class = "UILabel"; text = "My Wallet"; ObjectID = "EYb-Pb-ni0"; */
+"EYb-Pb-ni0.text" = "내 지갑";
+
+/* Class = "UILabel"; text = "My Wallet"; ObjectID = "qxd-8Z-wSu"; */
+"qxd-8Z-wSu.text" = "내 지갑";
+
+/* Class = "UIButton"; normalTitle = "Withdraw Your Balance"; ObjectID = "uc8-5V-0oR"; */
+"uc8-5V-0oR.normalTitle" = "잔액 인출";
+
+/* Class = "UILabel"; text = "Redeem Your Code"; ObjectID = "ytb-gX-Sef"; */
+"ytb-gX-Sef.text" = "코드 사용";
+
+/* Class = "UITextField"; placeholder = "Enter Referral Code"; ObjectID = "Fgr-pB-oWu"; */
+"Fgr-pB-oWu.placeholder" = "추천 코드 입력";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "K1s-DZ-fZr"; */
+"K1s-DZ-fZr.normalTitle" = "적용하다";
+
+/* Class = "UILabel"; text = "Your Referral Code"; ObjectID = "LPk-oO-8a0"; */
+"LPk-oO-8a0.text" = "추천 코드";
+
+/* Class = "UILabel"; text = "Packages"; ObjectID = "oVR-GK-BAY"; */
+"oVR-GK-BAY.text" = "패키지";
+
+/* Class = "UILabel"; text = "You"; ObjectID = "U0l-Dm-B5s"; */
+"U0l-Dm-B5s.text" = "너";
+
+/* Class = "UILabel"; text = "Your Friend"; ObjectID = "MTy-uj-Af5"; */
+"MTy-uj-Af5.text" = "네 친구";
+
+/* Class = "UILabel"; text = "How does It Work?"; ObjectID = "Wyq-ae-sjf"; */
+"Wyq-ae-sjf.text" = "어떻게 작동합니까?";
+
+/* Class = "UILabel"; text = "Refer your friend through your Symlex VPN account"; ObjectID = "Pw7-S9-gxk"; */
+"Pw7-S9-gxk.text" = "Symlex VPN 계정을 통해 친구 추천하기";
+
+/* Class = "UILabel"; text = "Your friend signs up and redeems your code in their wallet"; ObjectID = "yRI-2d-esB"; */
+"yRI-2d-esB.text" = "친구가 가입하고 지갑에 있는 코드를 사용합니다.";
+
+/* Class = "UILabel"; text = "Your friend purchases a premium subscription"; ObjectID = "pNh-Gh-pqj"; */
+"pNh-Gh-pqj.text" = "친구가 프리미엄 구독을 구매합니다.";
+
+/* Class = "UILabel"; text = "You and your friends get rewards in the respective accounts"; ObjectID = "mb4-jd-rS6"; */
+"mb4-jd-rS6.text" = "당신과 당신의 친구들은 각각의 계정에서 보상을 받습니다.";
+
+/* Class = "UILabel"; text = "Statements"; ObjectID = "Dm9-9t-fBc"; */
+"Dm9-9t-fBc.text" = "진술";
+
+/* Class = "UILabel"; text = "Withdraw"; ObjectID = "Z4v-2N-7P4"; */
+"Z4v-2N-7P4.text" = "철회하다";
+
+/* Class = "UILabel"; text = "Payment Method"; ObjectID = "FuV-xg-BoI"; */
+"FuV-xg-BoI.text" = "지불 방법";
+
+/* Class = "UILabel"; text = "Personal Information"; ObjectID = "cSg-Ai-gtL"; */
+"cSg-Ai-gtL.text" = "개인 정보";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "Kt5-vr-40a"; */
+"Kt5-vr-40a.placeholder" = "이름";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "ewh-Dg-vbf"; */
+"ewh-Dg-vbf.placeholder" = "주소";
+
+/* Class = "UILabel"; text = "Code"; ObjectID = "Rb1-hP-gsO"; */
+"Rb1-hP-gsO.text" = "암호";
+
+/* Class = "UITextField"; placeholder = "Contact Number"; ObjectID = "NbE-rS-kus"; */
+"NbE-rS-kus.placeholder" = "연락처";
+
+/* Class = "UILabel"; text = "BKash Details"; ObjectID = "74D-m2-4Yu"; */
+"74D-m2-4Yu.text" = "비캐시 세부 정보";
+
+/* Class = "UITextField"; placeholder = "Number"; ObjectID = "zzE-ol-Xts"; */
+"zzE-ol-Xts.placeholder" = "숫자";
+
+/* Class = "UILabel"; text = "PayPal Details"; ObjectID = "Rqd-uS-bR3"; */
+"Rqd-uS-bR3.text" = "페이팔 세부정보";
+
+/* Class = "UITextField"; placeholder = "PayPal Email"; ObjectID = "NXu-yP-sbn"; */
+"NXu-yP-sbn.placeholder" = "페이팔 이메일";
+
+/* Class = "UILabel"; text = "Bank Details"; ObjectID = "0H4-Ea-4TU"; */
+"0H4-Ea-4TU.text" = "은행 계좌 정보";
+
+/* Class = "UITextField"; placeholder = "Bank Name"; ObjectID = "LZN-yX-sED"; */
+"LZN-yX-sED.placeholder" = "은행 이름";
+
+/* Class = "UITextField"; placeholder = "Account Name"; ObjectID = "OsC-yU-qPw"; */
+"OsC-yU-qPw.placeholder" = "계정 이름";
+
+/* Class = "UITextField"; placeholder = "Account Number"; ObjectID = "bCW-gL-M11"; */
+"bCW-gL-M11.placeholder" = "계좌 번호";
+
+/* Class = "UITextField"; placeholder = "Branch Address/Code"; ObjectID = "E8E-H5-IsM"; */
+"E8E-H5-IsM.placeholder" = "지점 주소/코드";
+
+/* Class = "UITextField"; placeholder = "Swift Code/IBAN Number"; ObjectID = "usq-7I-8oD"; */
+"usq-7I-8oD.placeholder" = "스위프트 코드/IBAN 번호";
+
+/* Class = "UILabel"; text = "Withdrawal Amount"; ObjectID = "cgl-LM-hmx"; */
+"cgl-LM-hmx.text" = "출금금액";
+
+/* Class = "UITextField"; placeholder = "Amount"; ObjectID = "6vK-P3-WWH"; */
+"6vK-P3-WWH.placeholder" = "양";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "sSK-8M-R5C"; */
+"sSK-8M-R5C.normalTitle" = "제출하다";
+
+/* Class = "UILabel"; text = "Delete Account"; ObjectID = "r0Q-gy-kcf"; */
+"r0Q-gy-kcf.text" = "계정 삭제";
+
+/* Class = "UILabel"; text = "Delete your account permanently"; ObjectID = "Fwr-Xf-ZNz"; */
+"Fwr-Xf-ZNz.text" = "계정을 영구적으로 삭제";
+
+/* Class = "UILabel"; text = "Refer & Earn"; ObjectID = "22k-6b-DwH"; */
+"22k-6b-DwH.text" = "추천 및 적립";
+
+/* Class = "UILabel"; text = "Platform Name"; ObjectID = "WMp-ug-09q"; */
+"WMp-ug-09q.text" = "플랫폼 이름";

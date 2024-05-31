@@ -1,0 +1,510 @@
+
+/* Class = "UILabel"; text = "Password:"; ObjectID = "0A8-cq-19d"; */
+"0A8-cq-19d.text" = "Mot de passe:";
+
+/* Class = "UILabel"; text = "Newyork"; ObjectID = "0Td-Di-GEk"; */
+"0Td-Di-GEk.text" = "Newyork";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "1MW-aH-gpB"; */
+"1MW-aH-gpB.text" = "Avis";
+
+/* Class = "UILabel"; text = "FAVORITE"; ObjectID = "1j6-cw-sek"; */
+"1j6-cw-sek.text" = "FAVORI";
+
+/* Class = "UIButton"; normalTitle = "Agree & Continue"; ObjectID = "1zM-eM-hZc"; */
+"1zM-eM-hZc.normalTitle" = "Accepter et continuer";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "2FG-A8-hFe"; */
+"2FG-A8-hFe.text" = "Version 1.5";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "37z-kD-62a"; */
+"37z-kD-62a.text" = "Étiquette";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "3FD-qg-Wxb"; */
+"3FD-qg-Wxb.text" = "Version 1.5";
+
+/* Class = "UILabel"; text = "BUY PREMIUM"; ObjectID = "3om-XN-0NA"; */
+"3om-XN-0NA.text" = "ACHETER PREMIUM";
+
+/* Class = "UITextField"; placeholder = "PASSWORD"; ObjectID = "4Cv-Pq-OuI"; */
+"4Cv-Pq-OuI.placeholder" = "MOT DE PASSE";
+
+/* Class = "UIButton"; normalTitle = "Contact Via Facebook"; ObjectID = "4Jk-vM-kU8"; */
+"4Jk-vM-kU8.normalTitle" = "Contact Via Facebook";
+
+/* Class = "UILabel"; text = "Mb/s"; ObjectID = "4ca-R9-naK"; */
+"4ca-R9-naK.text" = "Mb/s";
+
+/* Class = "UILabel"; text = "Signup"; ObjectID = "4dH-yB-Boe"; */
+"4dH-yB-Boe.text" = "Inscription";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "54m-13-GUY"; */
+"54m-13-GUY.title" = "Fait";
+
+/* Class = "UILabel"; text = "N.B: Amount will be charged in BDT. 1 USD = 85 BDT (Approximately) \nDo Not need Mobile Number if you don't have Bangladesh Number"; ObjectID = "5Ge-he-2T9"; */
+"5Ge-he-2T9.text" = "N.B: Le montant sera facturé en BDT. 1 USD = 85 BDT (environ) nNe pas besoin de numéro de téléphone portable si vous n’avez pas de numéro Bangladesh";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "6Ju-Ip-KJc"; */
+"6Ju-Ip-KJc.placeholder" = "Messagerie électronique";
+
+/* Class = "UILabel"; text = "Bangladesh"; ObjectID = "6ld-7B-X7W"; */
+"6ld-7B-X7W.text" = "Bangladesh";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "7Da-J9-TRh"; */
+"7Da-J9-TRh.text" = "Qui sommes-nous";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "8SO-Ak-cxh"; */
+"8SO-Ak-cxh.text" = "Titre";
+
+/* Class = "UILabel"; text = "VPN IS OFF"; ObjectID = "9X0-XG-tFp"; */
+"9X0-XG-tFp.text" = "LE VPN EST DÉSACTIVÉ";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "AVR-OK-qk1"; */
+"AVR-OK-qk1.normalTitle" = "Connectez-vous";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Aj8-uc-jph"; */
+"Aj8-uc-jph.text" = "Étiquette";
+
+/* Class = "UIButton"; normalTitle = "Press to Connect"; ObjectID = "BVI-2j-AYH"; */
+"BVI-2j-AYH.normalTitle" = "Appuyez sur pour vous connecter";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Bib-R6-I3O"; */
+"Bib-R6-I3O.placeholder" = "Messagerie électronique";
+
+/* Class = "UILabel"; text = "Notification"; ObjectID = "C48-Qg-1ZZ"; */
+"C48-Qg-1ZZ.text" = "Notification";
+
+/* Class = "UIButton"; normalTitle = "Disclaimer"; ObjectID = "D7M-MD-5zp"; */
+"D7M-MD-5zp.normalTitle" = "Démenti";
+
+/* Class = "UILabel"; text = "Download Symlex Call"; ObjectID = "DQM-E3-Z98"; */
+"DQM-E3-Z98.text" = "Télécharger Symlex Call";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "E9o-Pn-cKe"; */
+"E9o-Pn-cKe.text" = "Titre";
+
+/* Class = "UILabel"; text = "Fastest Server"; ObjectID = "Fx5-pf-qaM"; */
+"Fx5-pf-qaM.text" = "Serveur le plus rapide";
+
+/* Class = "UIButton"; normalTitle = "Send Email"; ObjectID = "Gtu-Lo-Wui"; */
+"Gtu-Lo-Wui.normalTitle" = "Envoyer un e-mail";
+
+/* Class = "UILabel"; text = "Version"; ObjectID = "H6N-lM-sDw"; */
+"H6N-lM-sDw.text" = "Version";
+
+/* Class = "UITextField"; placeholder = "Search Server"; ObjectID = "HBk-Ix-dmk"; */
+"HBk-Ix-dmk.placeholder" = "Serveur de recherche";
+
+/* Class = "UILabel"; text = "User Name:"; ObjectID = "Hpf-BA-FmT"; */
+"Hpf-BA-FmT.text" = "Nom d’utilisateur:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ILC-gJ-fSl"; */
+"ILC-gJ-fSl.text" = "Étiquette";
+
+/* Class = "UILabel"; text = "Premium Purchase"; ObjectID = "J8P-3m-H0C"; */
+"J8P-3m-H0C.text" = "Étiquette ...";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "Jk4-Nq-ZUt"; */
+"Jk4-Nq-ZUt.text" = "Paramètres";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "K0q-SR-pAm"; */
+"K0q-SR-pAm.title" = "Article";
+
+/* Class = "UILabel"; text = "Mb/s"; ObjectID = "K1q-6v-gKG"; */
+"K1q-6v-gKG.text" = "Mb/s";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "K7V-WE-y8m"; */
+"K7V-WE-y8m.text" = "Version 1.5";
+
+/* Class = "UILabel"; text = "Expiry 10 days"; ObjectID = "L7b-pC-3vC"; */
+"L7b-pC-3vC.text" = "Expiration 10 jours";
+
+/* Class = "UILabel"; text = "Test1234"; ObjectID = "LSO-0b-Pn2"; */
+"LSO-0b-Pn2.text" = "Essai1234";
+
+/* Class = "UILabel"; text = "ALL"; ObjectID = "LTr-Ty-j1O"; */
+"LTr-Ty-j1O.text" = "TOUT";
+
+/* Class = "UILabel"; text = "Use the web securely even if your VPN Connection drops! Turn always-on vpn from settings"; ObjectID = "MTP-W6-SV6"; */
+"MTP-W6-SV6.text" = "Utilisez le Web en toute sécurité même si votre connexion VPN tombe ! Activer le VPN toujours activé à partir des paramètres";
+
+/* Class = "UIButton"; normalTitle = "Get Support"; ObjectID = "MYD-Zb-FJY"; */
+"MYD-Zb-FJY.normalTitle" = "Obtenir de l’aide";
+
+/* Class = "UILabel"; text = "Bangladesh"; ObjectID = "OCu-AL-CAP"; */
+"OCu-AL-CAP.text" = "Bangladesh";
+
+/* Class = "UILabel"; text = "New User?"; ObjectID = "OP1-Ef-aY0"; */
+"OP1-Ef-aY0.text" = "Nouvel utilisateur ?";
+
+/* Class = "UILabel"; text = "Account Status: "; ObjectID = "OTY-pZ-MnX"; */
+"OTY-pZ-MnX.text" = "Statut du compte: ";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "PKG-v4-JrS"; */
+"PKG-v4-JrS.normalTitle" = "Mot de passe oublié?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Qbc-zn-kng"; */
+"Qbc-zn-kng.text" = "Étiquette";
+
+/* Class = "UILabel"; text = "Ping 99/ms"; ObjectID = "Qog-2I-rvh"; */
+"Qog-2I-rvh.text" = "Ping 99/ms";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "RC7-GP-uIW"; */
+"RC7-GP-uIW.text" = "Version 1.5";
+
+/* Class = "UILabel"; text = "Please select a package"; ObjectID = "T8Q-0E-yZW"; */
+"T8Q-0E-yZW.text" = "Veuillez sélectionner un forfait";
+
+/* Class = "UILabel"; text = "Kill Switch"; ObjectID = "U7H-ZN-aLh"; */
+"U7H-ZN-aLh.text" = "VPN toujours allumé";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "UBK-Xc-vkp"; */
+"UBK-Xc-vkp.normalTitle" = "Envoyer";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "UHv-cC-wrl"; */
+"UHv-cC-wrl.text" = "Version 1.5";
+
+/* Class = "UILabel"; text = "Ms"; ObjectID = "Uct-Pj-963"; */
+"Uct-Pj-963.text" = "Version 1.5 ...";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "VQz-mL-eYd"; */
+"VQz-mL-eYd.normalTitle" = "Politique de confidentialité";
+
+/* Class = "UILabel"; text = "Security and privacy alerts, tips, offers"; ObjectID = "XLo-an-pYb"; */
+"XLo-an-pYb.text" = "Alertes de sécurité et de confidentialité, conseils, offres";
+
+/* Class = "UIButton"; normalTitle = "Signup Now"; ObjectID = "Y99-5w-bnt"; */
+"Y99-5w-bnt.normalTitle" = "Inscrivez-vous maintenant";
+
+/* Class = "UILabel"; text = "Check for updates"; ObjectID = "Ycg-05-g31"; */
+"Ycg-05-g31.text" = "Rechercher les mises à jour";
+
+/* Class = "UINavigationItem"; title = "Signup"; ObjectID = "ZHc-04-Egh"; */
+"ZHc-04-Egh.title" = "Rechercher les mises à jour ...";
+
+/* Class = "UILabel"; text = "Rate Us"; ObjectID = "aV6-EA-6ad"; */
+"aV6-EA-6ad.text" = "Évaluez-nous";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "aZ3-8T-Go6"; */
+"aZ3-8T-Go6.title" = "Fait";
+
+/* Class = "UILabel"; text = "Servers"; ObjectID = "b9w-4x-oAM"; */
+"b9w-4x-oAM.text" = "Serveurs";
+
+/* Class = "UIButton"; normalTitle = "Terms of Service"; ObjectID = "cCp-P3-Koi"; */
+"cCp-P3-Koi.normalTitle" = "Conditions d’utilisation";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "cPe-Qb-Pxg"; */
+"cPe-Qb-Pxg.normalTitle" = "Envoyer";
+
+/* Class = "UILabel"; text = "Please select a package from below:-"; ObjectID = "dKb-sR-Eew"; */
+"dKb-sR-Eew.text" = "Veuillez sélectionner un forfait ci-dessous:-";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "dds-Jp-G1t"; */
+"dds-Jp-G1t.text" = "Version 1.5";
+
+/* Class = "UIButton"; normalTitle = "WhatsApp"; ObjectID = "dvB-qC-ItJ"; */
+"dvB-qC-ItJ.normalTitle" = "WhatsApp";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "e9m-JP-2i2"; */
+"e9m-JP-2i2.text" = "Version 1.5";
+
+/* Class = "UILabel"; text = "Change Location"; ObjectID = "fes-zf-PPx"; */
+"fes-zf-PPx.text" = "Changer d’emplacement";
+
+/* Class = "UILabel"; text = "United States"; ObjectID = "g0o-Mc-KNF"; */
+"g0o-Mc-KNF.text" = "États-Unis";
+
+/* Class = "UILabel"; text = "We will email your current password"; ObjectID = "hdp-5h-5W6"; */
+"hdp-5h-5W6.text" = "Nous vous envoyerons votre mot de passe actuel par e-mail";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "hic-BS-11G"; */
+"hic-BS-11G.placeholder" = "Mot de passe";
+
+/* Class = "UINavigationItem"; title = "Log In"; ObjectID = "hqW-rR-X6b"; */
+"hqW-rR-X6b.title" = "S'identifier";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "i5s-CG-Wbm"; */
+"i5s-CG-Wbm.text" = "Version 1.5";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "j28-Wo-Gpi"; */
+"j28-Wo-Gpi.text" = "Paramètres";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "jC8-WY-KXU"; */
+"jC8-WY-KXU.text" = "Qui sommes-nous";
+
+/* Class = "UILabel"; text = "Get Support"; ObjectID = "jUg-Mg-3ZE"; */
+"jUg-Mg-3ZE.text" = "Obtenir de l’aide";
+
+/* Class = "UILabel"; text = "Get Support"; ObjectID = "jgw-7d-ph3"; */
+"jgw-7d-ph3.text" = "Obtenir de l’aide";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "k0g-P4-0pK"; */
+"k0g-P4-0pK.normalTitle" = "Déconnexion";
+
+/* Class = "UILabel"; text = "Account Status: "; ObjectID = "sNW-zP-rgi"; */
+"sNW-zP-rgi.text" = "Statut du compte: ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lDK-qk-bUe"; */
+"lDK-qk-bUe.text" = "Label";
+
+/* Class = "UILabel"; text = "Version"; ObjectID = "mpQ-cZ-xtc"; */
+"mpQ-cZ-xtc.text" = "Version";
+
+/* Class = "UILabel"; text = "EROR"; ObjectID = "mwC-dZ-cCr"; */
+"mwC-dZ-cCr.text" = "ERREUR";
+
+/* Class = "UIButton"; normalTitle = "Contact Via Website"; ObjectID = "niX-fU-K6H"; */
+"niX-fU-K6H.normalTitle" = "Contact via le site Web";
+
+/* Class = "UITextView"; text = "# We do not store any logs # We do not collect any data # We cannot identify individuals # We protect your privacy # We do not store your original IP address # We do not sell or disclose any personal data to third parties"; ObjectID = "oqX-k2-H0a"; */
+"oqX-k2-H0a.text" = "# Nous ne stockons aucun journal # Nous ne collectons aucune donnée # Nous ne pouvons pas identifier les individus # Nous protégeons votre vie privée # Nous ne stockons pas votre adresse IP d’origine # Nous ne vendons ni ne divulguons aucune donnée personnelle à des tiers";
+
+/* Class = "UILabel"; text = "Scratch Card"; ObjectID = "osR-IA-pfv"; */
+"osR-IA-pfv.text" = "Carte à gratter";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "p0t-0c-gJP"; */
+"p0t-0c-gJP.text" = "Mot de passe oublié";
+
+/* Class = "UILabel"; text = "N.B: Amount will be charged in BDT. 1 USD = 85 BDT (Approximately) \nDo Not need Mobile Number if you don't have Bangladesh Number"; ObjectID = "pRz-rT-bzk"; */
+"pRz-rT-bzk.text" = "N.B: Le montant sera facturé en BDT. 1 USD = 85 BDT (environ) nNe pas besoin de numéro de téléphone portable si vous n’avez pas de numéro Bangladesh";
+
+/* Class = "UILabel"; text = "Expiry 10 days"; ObjectID = "ru3-c9-e4m"; */
+"ru3-c9-e4m.text" = "Expiration 10 jours";
+
+/* Class = "UILabel"; text = "Network Strength"; ObjectID = "s1m-AE-pAK"; */
+"s1m-AE-pAK.text" = "Force du réseau";
+
+/* Class = "UITextField"; placeholder = "USERNAME"; ObjectID = "s7e-Sg-7tN"; */
+"s7e-Sg-7tN.placeholder" = "NOM D’UTILISATEUR";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "sBj-3j-Tcb"; */
+"sBj-3j-Tcb.placeholder" = "Confirmer le mot de passe";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "sGu-Xf-XFk"; */
+"sGu-Xf-XFk.text" = "Version 1.5";
+
+/* Class = "UIButton"; normalTitle = "START"; ObjectID = "sJ7-1N-6pW"; */
+"sJ7-1N-6pW.normalTitle" = "COMMENCER";
+
+/* Class = "UILabel"; text = "Server"; ObjectID = "sPt-hD-bU1"; */
+"sPt-hD-bU1.text" = "Serveur";
+
+/* Class = "UILabel"; text = "Buy Premimum for unlocking all features"; ObjectID = "tQx-nO-Ton"; */
+"tQx-nO-Ton.text" = "Achetez Premium pour déverrouiller toutes les fonctionnalités";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "ujH-Ly-Xpr"; */
+"ujH-Ly-Xpr.title" = "Done";
+
+/* Class = "UITextField"; placeholder = "Search Server"; ObjectID = "ukw-cM-WLw"; */
+"ukw-cM-WLw.placeholder" = "Search Server";
+
+/* Class = "UIButton"; normalTitle = "START"; ObjectID = "uzz-nj-EGk"; */
+"uzz-nj-EGk.normalTitle" = "COMMENCER";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "vRW-LS-5Pz"; */
+"vRW-LS-5Pz.normalTitle" = "Politique de confidentialité";
+
+/* Class = "UILabel"; text = "Enter the registered email address"; ObjectID = "vm9-La-Ieg"; */
+"vm9-La-Ieg.text" = "Entrez l’adresse e-mail enregistrée";
+
+/* Class = "UILabel"; text = "My Account"; ObjectID = "IXI-nY-qlu"; */
+"IXI-nY-qlu.text" = "Mon compte";
+
+/* Class = "UIButton"; normalTitle = "Refund Policy"; ObjectID = "wAu-Su-igL"; */
+"wAu-Su-igL.normalTitle" = "Politique de remboursement";
+
+/* Class = "UILabel"; text = "My Account"; ObjectID = "ypw-WY-dsj"; */
+"ypw-WY-dsj.text" = "Mon compte";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "zPz-IZ-WrD"; */
+"zPz-IZ-WrD.text" = "Version 1.5";
+
+/* Class = "UILabel"; text = "N/A"; ObjectID = "zdK-VQ-acO"; */
+"zdK-VQ-acO.text" = "N/A";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zgS-lX-uqA"; */
+"zgS-lX-uqA.text" = "Étiquette";
+
+/* Class = "UILabel"; text = "Server Load"; ObjectID = "zx3-F0-ufa"; */
+"zx3-F0-ufa.text" = "Charge du serveur";
+
+/* Class = "UILabel"; text = "Device"; ObjectID = "8Nl-hs-yub"; */
+"8Nl-hs-yub.text" = "Dispositif";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kgd-6j-bZ5"; */
+"kgd-6j-bZ5.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "RJN-8A-o04"; */
+"RJN-8A-o04.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Device added by you"; ObjectID = "VSh-Vf-hgU"; */
+"VSh-Vf-hgU.text" = "Appareil ajouté par vous";
+
+/* Class = "UILabel"; text = "No device found"; ObjectID = "jTw-JA-Znq"; */
+"jTw-JA-Znq.text" = "Aucun appareil trouvé";
+
+/* Class = "UILabel"; text = "VPN Disconnected"; ObjectID = "9X0-XG-tFp"; */
+"9X0-XG-tFp.text" = "VPN déconnecté";
+
+/* Class = "UILabel"; text = "Ping"; ObjectID = "lZ5-ED-0OU"; */
+"lZ5-ED-0OU.text" = "Ping";
+
+/* Class = "UILabel"; text = "Download"; ObjectID = "WrE-ih-mgE"; */
+"WrE-ih-mgE.text" = "Télécharger";
+
+/* Class = "UILabel"; text = "Upload"; ObjectID = "fAv-q3-Lg5"; */
+"fAv-q3-Lg5.text" = "Télécharger";
+
+/* Class = "UILabel"; text = "Pay for best"; ObjectID = "Gp8-Dj-t4u"; */
+"Gp8-Dj-t4u.text" = "Payer pour le meilleur";
+
+/* Class = "UILabel"; text = "Account Information"; ObjectID = "sKM-98-zws"; */
+"sKM-98-zws.text" = "Information sur le compte";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "q0T-z5-KoZ"; */
+"q0T-z5-KoZ.text" = "E-mail";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "WJy-gj-7uZ"; */
+"WJy-gj-7uZ.text" = "Mot de passe";
+
+/* Class = "UILabel"; text = "Unlock all features"; ObjectID = "eSc-aO-Lqh"; */
+"eSc-aO-Lqh.text" = "Déverrouiller toutes les fonctionnalités";
+
+/* Class = "UILabel"; text = "BUY PREMIUM"; ObjectID = "1rC-tt-DfG"; */
+"1rC-tt-DfG.text" = "ACHETER PREMIUM";
+
+/* Class = "UILabel"; text = "Expired on"; ObjectID = "rZS-tY-gRV"; */
+"rZS-tY-gRV.text" = "A expiré le";
+
+/* Class = "UILabel"; text = "Support"; ObjectID = "eij-72-Xep"; */
+"eij-72-Xep.text" = "Soutien";
+
+/* Class = "UILabel"; text = "Live Support Team"; ObjectID = "adZ-x6-h6l"; */
+"adZ-x6-h6l.text" = "Équipe d'assistance en direct";
+
+/* Class = "UILabel"; text = "Unlock All Premium Features"; ObjectID = "YI0-dz-Odj"; */
+"YI0-dz-Odj.text" = "Débloquez toutes les fonctionnalités Premium";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "i0c-aX-Uab"; */
+"i0c-aX-Uab.normalTitle" = "Fait";
+
+/* Class = "UILabel"; text = "My Wallet"; ObjectID = "EYb-Pb-ni0"; */
+"EYb-Pb-ni0.text" = "Mon portefeuille";
+
+/* Class = "UILabel"; text = "My Wallet"; ObjectID = "qxd-8Z-wSu"; */
+"qxd-8Z-wSu.text" = "Mon portefeuille";
+
+/* Class = "UIButton"; normalTitle = "Withdraw Your Balance"; ObjectID = "uc8-5V-0oR"; */
+"uc8-5V-0oR.normalTitle" = "Retirer votre solde";
+
+/* Class = "UILabel"; text = "Redeem Your Code"; ObjectID = "ytb-gX-Sef"; */
+"ytb-gX-Sef.text" = "Échangez votre code";
+
+/* Class = "UITextField"; placeholder = "Enter Referral Code"; ObjectID = "Fgr-pB-oWu"; */
+"Fgr-pB-oWu.placeholder" = "Entrez le code de parrainage";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "K1s-DZ-fZr"; */
+"K1s-DZ-fZr.normalTitle" = "Appliquer";
+
+/* Class = "UILabel"; text = "Your Referral Code"; ObjectID = "LPk-oO-8a0"; */
+"LPk-oO-8a0.text" = "Votre code de parrainage";
+
+/* Class = "UILabel"; text = "Packages"; ObjectID = "oVR-GK-BAY"; */
+"oVR-GK-BAY.text" = "Paquets";
+
+/* Class = "UILabel"; text = "You"; ObjectID = "U0l-Dm-B5s"; */
+"U0l-Dm-B5s.text" = "Tu";
+
+/* Class = "UILabel"; text = "Your Friend"; ObjectID = "MTy-uj-Af5"; */
+"MTy-uj-Af5.text" = "Ton ami";
+
+/* Class = "UILabel"; text = "How does It Work?"; ObjectID = "Wyq-ae-sjf"; */
+"Wyq-ae-sjf.text" = "Comment ça marche?";
+
+/* Class = "UILabel"; text = "Refer your friend through your Symlex VPN account"; ObjectID = "Pw7-S9-gxk"; */
+"Pw7-S9-gxk.text" = "Parrainez votre ami via votre compte Symlex VPN";
+
+/* Class = "UILabel"; text = "Your friend signs up and redeems your code in their wallet"; ObjectID = "yRI-2d-esB"; */
+"yRI-2d-esB.text" = "Votre ami s'inscrit et utilise votre code dans son portefeuille";
+
+/* Class = "UILabel"; text = "Your friend purchases a premium subscription"; ObjectID = "pNh-Gh-pqj"; */
+"pNh-Gh-pqj.text" = "Votre ami achète un abonnement premium";
+
+/* Class = "UILabel"; text = "You and your friends get rewards in the respective accounts"; ObjectID = "mb4-jd-rS6"; */
+"mb4-jd-rS6.text" = "Vous et vos amis obtenez des récompenses dans les comptes respectifs";
+
+/* Class = "UILabel"; text = "Statements"; ObjectID = "Dm9-9t-fBc"; */
+"Dm9-9t-fBc.text" = "Déclarations";
+
+/* Class = "UILabel"; text = "Withdraw"; ObjectID = "Z4v-2N-7P4"; */
+"Z4v-2N-7P4.text" = "Retirer";
+
+/* Class = "UILabel"; text = "Payment Method"; ObjectID = "FuV-xg-BoI"; */
+"FuV-xg-BoI.text" = "Mode de paiement";
+
+/* Class = "UILabel"; text = "Personal Information"; ObjectID = "cSg-Ai-gtL"; */
+"cSg-Ai-gtL.text" = "Renseignements personnels";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "Kt5-vr-40a"; */
+"Kt5-vr-40a.placeholder" = "Nom";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "ewh-Dg-vbf"; */
+"ewh-Dg-vbf.placeholder" = "Adresse";
+
+/* Class = "UILabel"; text = "Code"; ObjectID = "Rb1-hP-gsO"; */
+"Rb1-hP-gsO.text" = "Code";
+
+/* Class = "UITextField"; placeholder = "Contact Number"; ObjectID = "NbE-rS-kus"; */
+"NbE-rS-kus.placeholder" = "Numéro de contact";
+
+/* Class = "UILabel"; text = "BKash Details"; ObjectID = "74D-m2-4Yu"; */
+"74D-m2-4Yu.text" = "Détails de BKash";
+
+/* Class = "UITextField"; placeholder = "Number"; ObjectID = "zzE-ol-Xts"; */
+"zzE-ol-Xts.placeholder" = "Numéro";
+
+/* Class = "UILabel"; text = "PayPal Details"; ObjectID = "Rqd-uS-bR3"; */
+"Rqd-uS-bR3.text" = "Détails PayPal";
+
+/* Class = "UITextField"; placeholder = "PayPal Email"; ObjectID = "NXu-yP-sbn"; */
+"NXu-yP-sbn.placeholder" = "Email Paypal";
+
+/* Class = "UILabel"; text = "Bank Details"; ObjectID = "0H4-Ea-4TU"; */
+"0H4-Ea-4TU.text" = "Coordonnées bancaires";
+
+/* Class = "UITextField"; placeholder = "Bank Name"; ObjectID = "LZN-yX-sED"; */
+"LZN-yX-sED.placeholder" = "Nom de banque";
+
+/* Class = "UITextField"; placeholder = "Account Name"; ObjectID = "OsC-yU-qPw"; */
+"OsC-yU-qPw.placeholder" = "Nom du compte";
+
+/* Class = "UITextField"; placeholder = "Account Number"; ObjectID = "bCW-gL-M11"; */
+"bCW-gL-M11.placeholder" = "Numéro de compte";
+
+/* Class = "UITextField"; placeholder = "Branch Address/Code"; ObjectID = "E8E-H5-IsM"; */
+"E8E-H5-IsM.placeholder" = "Adresse/code de la succursale";
+
+/* Class = "UITextField"; placeholder = "Swift Code/IBAN Number"; ObjectID = "usq-7I-8oD"; */
+"usq-7I-8oD.placeholder" = "Code Swift/Numéro IBAN";
+
+/* Class = "UILabel"; text = "Withdrawal Amount"; ObjectID = "cgl-LM-hmx"; */
+"cgl-LM-hmx.text" = "Montant de retrait";
+
+/* Class = "UITextField"; placeholder = "Amount"; ObjectID = "6vK-P3-WWH"; */
+"6vK-P3-WWH.placeholder" = "Montant";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "sSK-8M-R5C"; */
+"sSK-8M-R5C.normalTitle" = "Soumettre";
+
+/* Class = "UILabel"; text = "Delete Account"; ObjectID = "r0Q-gy-kcf"; */
+"r0Q-gy-kcf.text" = "Supprimer le compte";
+
+/* Class = "UILabel"; text = "Delete your account permanently"; ObjectID = "Fwr-Xf-ZNz"; */
+"Fwr-Xf-ZNz.text" = "Supprimer définitivement votre compte";
+
+/* Class = "UILabel"; text = "Refer & Earn"; ObjectID = "22k-6b-DwH"; */
+"22k-6b-DwH.text" = "Parrainez et gagnez";
+
+/* Class = "UILabel"; text = "Platform Name"; ObjectID = "WMp-ug-09q"; */
+"WMp-ug-09q.text" = "Nom de la plate-forme";

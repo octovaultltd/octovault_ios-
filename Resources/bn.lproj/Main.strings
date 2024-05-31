@@ -1,0 +1,510 @@
+
+/* Class = "UILabel"; text = "Password:"; ObjectID = "0A8-cq-19d"; */
+"0A8-cq-19d.text" = "পাসওয়ার্ড:";
+
+/* Class = "UILabel"; text = "Newyork"; ObjectID = "0Td-Di-GEk"; */
+"0Td-Di-GEk.text" = "নিউইয়র্ক";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "1MW-aH-gpB"; */
+"1MW-aH-gpB.text" = "প্রজ্ঞাপন";
+
+/* Class = "UILabel"; text = "FAVORITE"; ObjectID = "1j6-cw-sek"; */
+"1j6-cw-sek.text" = "পছন্দসই";
+
+/* Class = "UIButton"; normalTitle = "Agree & Continue"; ObjectID = "1zM-eM-hZc"; */
+"1zM-eM-hZc.normalTitle" = "সম্মত হন এবং চালিয়ে যান";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "2FG-A8-hFe"; */
+"2FG-A8-hFe.text" = "সংস্করণ 1.5";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "37z-kD-62a"; */
+"37z-kD-62a.text" = "লেবেল";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "3FD-qg-Wxb"; */
+"3FD-qg-Wxb.text" = "সংস্করণ 1.5";
+
+/* Class = "UILabel"; text = "BUY PREMIUM"; ObjectID = "3om-XN-0NA"; */
+"3om-XN-0NA.text" = "প্রিমিয়াম কিনুন";
+
+/* Class = "UITextField"; placeholder = "PASSWORD"; ObjectID = "4Cv-Pq-OuI"; */
+"4Cv-Pq-OuI.placeholder" = "পাসওয়ার্ড";
+
+/* Class = "UIButton"; normalTitle = "Contact Via Facebook"; ObjectID = "4Jk-vM-kU8"; */
+"4Jk-vM-kU8.normalTitle" = "ফেসবুকের মাধ্যমে যোগাযোগ করুন";
+
+/* Class = "UILabel"; text = "Mb/s"; ObjectID = "4ca-R9-naK"; */
+"4ca-R9-naK.text" = "এমবি/এস";
+
+/* Class = "UILabel"; text = "Signup"; ObjectID = "4dH-yB-Boe"; */
+"4dH-yB-Boe.text" = "সাইনআপ";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "54m-13-GUY"; */
+"54m-13-GUY.title" = "সম্পন্ন";
+
+/* Class = "UILabel"; text = "N.B: Amount will be charged in BDT. 1 USD = 85 BDT (Approximately) \nDo Not need Mobile Number if you don't have Bangladesh Number"; ObjectID = "5Ge-he-2T9"; */
+"5Ge-he-2T9.text" = "এন.B: টাকা চার্জ করা হবে। 1 মার্কিন যুক্তরাষ্ট্র = 85 বিডিটি (আনুমানিক) ..আপনার কাছে বাংলাদেশ নম্বর না থাকলে মোবাইল নম্বরের প্রয়োজন নেই";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "6Ju-Ip-KJc"; */
+"6Ju-Ip-KJc.placeholder" = "ইমেল";
+
+/* Class = "UILabel"; text = "Bangladesh"; ObjectID = "6ld-7B-X7W"; */
+"6ld-7B-X7W.text" = "বাংলাদেশ";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "7Da-J9-TRh"; */
+"7Da-J9-TRh.text" = "আমাদের সম্পর্কে";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "8SO-Ak-cxh"; */
+"8SO-Ak-cxh.text" = "শীর্ষক";
+
+/* Class = "UILabel"; text = "VPN IS OFF"; ObjectID = "9X0-XG-tFp"; */
+"9X0-XG-tFp.text" = "ভিপিএন বন্ধ আছে";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "AVR-OK-qk1"; */
+"AVR-OK-qk1.normalTitle" = "লগইন";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Aj8-uc-jph"; */
+"Aj8-uc-jph.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Press to Connect"; ObjectID = "BVI-2j-AYH"; */
+"BVI-2j-AYH.normalTitle" = "সংযোগ করতে টিপুন";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Bib-R6-I3O"; */
+"Bib-R6-I3O.placeholder" = "ইমেল";
+
+/* Class = "UILabel"; text = "Notification"; ObjectID = "C48-Qg-1ZZ"; */
+"C48-Qg-1ZZ.text" = "প্রজ্ঞাপন";
+
+/* Class = "UIButton"; normalTitle = "Disclaimer"; ObjectID = "D7M-MD-5zp"; */
+"D7M-MD-5zp.normalTitle" = "ঘোষণা";
+
+/* Class = "UILabel"; text = "Download Symlex Call"; ObjectID = "DQM-E3-Z98"; */
+"DQM-E3-Z98.text" = "সিমলেক্স কল ডাউনলোড করুন";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "E9o-Pn-cKe"; */
+"E9o-Pn-cKe.text" = "Title";
+
+/* Class = "UILabel"; text = "Fastest Server"; ObjectID = "Fx5-pf-qaM"; */
+"Fx5-pf-qaM.text" = "দ্রুততম সার্ভার";
+
+/* Class = "UIButton"; normalTitle = "Send Email"; ObjectID = "Gtu-Lo-Wui"; */
+"Gtu-Lo-Wui.normalTitle" = "ইমেল পাঠান";
+
+/* Class = "UILabel"; text = "Version"; ObjectID = "H6N-lM-sDw"; */
+"H6N-lM-sDw.text" = "সংস্করণ";
+
+/* Class = "UITextField"; placeholder = "Search Server"; ObjectID = "HBk-Ix-dmk"; */
+"HBk-Ix-dmk.placeholder" = "সার্ভার অনুসন্ধান করুন";
+
+/* Class = "UILabel"; text = "User Name:"; ObjectID = "Hpf-BA-FmT"; */
+"Hpf-BA-FmT.text" = "ব্যবহারকারীর নাম:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ILC-gJ-fSl"; */
+"ILC-gJ-fSl.text" = "লেবেল";
+
+/* Class = "UILabel"; text = "Premium Purchase"; ObjectID = "J8P-3m-H0C"; */
+"J8P-3m-H0C.text" = "প্রিমিয়াম ক্রয়";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "Jk4-Nq-ZUt"; */
+"Jk4-Nq-ZUt.text" = "সেটিংস";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "K0q-SR-pAm"; */
+"K0q-SR-pAm.title" = "বিষয়োপকরণ";
+
+/* Class = "UILabel"; text = "Mb/s"; ObjectID = "K1q-6v-gKG"; */
+"K1q-6v-gKG.text" = "এমবি/এস";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "K7V-WE-y8m"; */
+"K7V-WE-y8m.text" = "সংস্করণ 1.5";
+
+/* Class = "UILabel"; text = "Expiry 10 days"; ObjectID = "L7b-pC-3vC"; */
+"L7b-pC-3vC.text" = "মেয়াদ উত্তীর্ণ 10 দিন";
+
+/* Class = "UILabel"; text = "Test1234"; ObjectID = "LSO-0b-Pn2"; */
+"LSO-0b-Pn2.text" = "টেস্ট১২৩৪";
+
+/* Class = "UILabel"; text = "ALL"; ObjectID = "LTr-Ty-j1O"; */
+"LTr-Ty-j1O.text" = "ALL";
+
+/* Class = "UILabel"; text = "Use the web securely even if your VPN Connection drops! Turn always-on vpn from settings"; ObjectID = "MTP-W6-SV6"; */
+"MTP-W6-SV6.text" = "আপনার ভিপিএন সংযোগ ড্রপ হলেও ওয়েবটি নিরাপদে ব্যবহার করুন! সেটিংস থেকে সর্বদা-চালু ভিপিএন চালু করুন";
+
+/* Class = "UIButton"; normalTitle = "Get Support"; ObjectID = "MYD-Zb-FJY"; */
+"MYD-Zb-FJY.normalTitle" = "সহায়তা পান";
+
+/* Class = "UILabel"; text = "Bangladesh"; ObjectID = "OCu-AL-CAP"; */
+"OCu-AL-CAP.text" = "বাংলাদেশ";
+
+/* Class = "UILabel"; text = "New User?"; ObjectID = "OP1-Ef-aY0"; */
+"OP1-Ef-aY0.text" = "নতুন ব্যবহারকারী?";
+
+/* Class = "UILabel"; text = "Account Status: "; ObjectID = "OTY-pZ-MnX"; */
+"OTY-pZ-MnX.text" = "অ্যাকাউন্টের স্থিতি: ";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "PKG-v4-JrS"; */
+"PKG-v4-JrS.normalTitle" = "পাসওয়ার্ড ভুলে গেছেন?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Qbc-zn-kng"; */
+"Qbc-zn-kng.text" = "লেবেল";
+
+/* Class = "UILabel"; text = "Ping 99/ms"; ObjectID = "Qog-2I-rvh"; */
+"Qog-2I-rvh.text" = "পিং 99/এমএস";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "RC7-GP-uIW"; */
+"RC7-GP-uIW.text" = "সংস্করণ 1.5";
+
+/* Class = "UILabel"; text = "Please select a package"; ObjectID = "T8Q-0E-yZW"; */
+"T8Q-0E-yZW.text" = "অনুগ্রহ করে একটি প্যাকেজ নির্বাচন করুন";
+
+/* Class = "UILabel"; text = "Kill Switch"; ObjectID = "U7H-ZN-aLh"; */
+"U7H-ZN-aLh.text" = "সর্বদা-চালু ভিপিএন";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "UBK-Xc-vkp"; */
+"UBK-Xc-vkp.normalTitle" = "জমা";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "UHv-cC-wrl"; */
+"UHv-cC-wrl.text" = "সংস্করণ 1.5";
+
+/* Class = "UILabel"; text = "Ms"; ObjectID = "Uct-Pj-963"; */
+"Uct-Pj-963.text" = "Ms";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "VQz-mL-eYd"; */
+"VQz-mL-eYd.normalTitle" = "গোপনীয়তা নীতি";
+
+/* Class = "UILabel"; text = "Security and privacy alerts, tips, offers"; ObjectID = "XLo-an-pYb"; */
+"XLo-an-pYb.text" = "নিরাপত্তা এবং গোপনীয়তা সতর্কতা, টিপস, অফার";
+
+/* Class = "UIButton"; normalTitle = "Signup Now"; ObjectID = "Y99-5w-bnt"; */
+"Y99-5w-bnt.normalTitle" = "এখন সাইনআপ করুন";
+
+/* Class = "UILabel"; text = "Check for updates"; ObjectID = "Ycg-05-g31"; */
+"Ycg-05-g31.text" = "আপডেটের জন্য পরীক্ষা করুন";
+
+/* Class = "UINavigationItem"; title = "Signup"; ObjectID = "ZHc-04-Egh"; */
+"ZHc-04-Egh.title" = "সাইনআপ";
+
+/* Class = "UILabel"; text = "Rate Us"; ObjectID = "aV6-EA-6ad"; */
+"aV6-EA-6ad.text" = "আমাদের রেট";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "aZ3-8T-Go6"; */
+"aZ3-8T-Go6.title" = "সম্পন্ন";
+
+/* Class = "UILabel"; text = "Servers"; ObjectID = "b9w-4x-oAM"; */
+"b9w-4x-oAM.text" = "সার্ভার";
+
+/* Class = "UIButton"; normalTitle = "Terms of Service"; ObjectID = "cCp-P3-Koi"; */
+"cCp-P3-Koi.normalTitle" = "পরিষেবার শর্তাবলী";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "cPe-Qb-Pxg"; */
+"cPe-Qb-Pxg.normalTitle" = "প্রেরণ";
+
+/* Class = "UILabel"; text = "Please select a package from below:-"; ObjectID = "dKb-sR-Eew"; */
+"dKb-sR-Eew.text" = "অনুগ্রহ করে নিচে থেকে একটি প্যাকেজ নির্বাচন করুন:-";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "dds-Jp-G1t"; */
+"dds-Jp-G1t.text" = "সংস্করণ 1.5";
+
+/* Class = "UIButton"; normalTitle = "WhatsApp"; ObjectID = "dvB-qC-ItJ"; */
+"dvB-qC-ItJ.normalTitle" = "WhatsApp";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "e9m-JP-2i2"; */
+"e9m-JP-2i2.text" = "সংস্করণ 1.5";
+
+/* Class = "UILabel"; text = "Change Location"; ObjectID = "fes-zf-PPx"; */
+"fes-zf-PPx.text" = "অবস্থান পরিবর্তন করুন";
+
+/* Class = "UILabel"; text = "United States"; ObjectID = "g0o-Mc-KNF"; */
+"g0o-Mc-KNF.text" = "যুক্তরাষ্ট্র";
+
+/* Class = "UILabel"; text = "We will email your current password"; ObjectID = "hdp-5h-5W6"; */
+"hdp-5h-5W6.text" = "আমরা আপনার বর্তমান পাসওয়ার্ড ইমেল করব";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "hic-BS-11G"; */
+"hic-BS-11G.placeholder" = "পাসওয়ার্ড";
+
+/* Class = "UINavigationItem"; title = "Log In"; ObjectID = "hqW-rR-X6b"; */
+"hqW-rR-X6b.title" = "লগ ইন করো";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "i5s-CG-Wbm"; */
+"i5s-CG-Wbm.text" = "সংস্করণ 1.5";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "j28-Wo-Gpi"; */
+"j28-Wo-Gpi.text" = "সেটিংস";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "jC8-WY-KXU"; */
+"jC8-WY-KXU.text" = "আমাদের সম্পর্কে";
+
+/* Class = "UILabel"; text = "Get Support"; ObjectID = "jUg-Mg-3ZE"; */
+"jUg-Mg-3ZE.text" = "সহায়তা পান";
+
+/* Class = "UILabel"; text = "Get Support"; ObjectID = "jgw-7d-ph3"; */
+"jgw-7d-ph3.text" = "সহায়তা পান";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "k0g-P4-0pK"; */
+"k0g-P4-0pK.normalTitle" = "লগআউট";
+
+/* Class = "UILabel"; text = "Account Status: "; ObjectID = "sNW-zP-rgi"; */
+"sNW-zP-rgi.text" = "অ্যাকাউন্টের স্থিতি: ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lDK-qk-bUe"; */
+"lDK-qk-bUe.text" = "লেবেল";
+
+/* Class = "UILabel"; text = "Version"; ObjectID = "mpQ-cZ-xtc"; */
+"mpQ-cZ-xtc.text" = "সংস্করণ";
+
+/* Class = "UILabel"; text = "EROR"; ObjectID = "mwC-dZ-cCr"; */
+"mwC-dZ-cCr.text" = "ত্রুটি";
+
+/* Class = "UIButton"; normalTitle = "Contact Via Website"; ObjectID = "niX-fU-K6H"; */
+"niX-fU-K6H.normalTitle" = "ওয়েবসাইটের মাধ্যমে যোগাযোগ করুন";
+
+/* Class = "UITextView"; text = "# We do not store any logs # We do not collect any data # We cannot identify individuals # We protect your privacy # We do not store your original IP address # We do not sell or disclose any personal data to third parties"; ObjectID = "oqX-k2-H0a"; */
+"oqX-k2-H0a.text" = "# আমরা কোন লগ সংরক্ষণ করি না # আমরা কোন তথ্য সংগ্রহ করি না # আমরা ব্যক্তিদের সনাক্ত করতে পারি না # আমরা আপনার গোপনীয়তা রক্ষা করি # আমরা আপনার মূল আইপি ঠিকানা সংরক্ষণ করি না # আমরা তৃতীয় পক্ষের কাছে কোনও ব্যক্তিগত তথ্য বিক্রি বা প্রকাশ করি না";
+
+/* Class = "UILabel"; text = "Scratch Card"; ObjectID = "osR-IA-pfv"; */
+"osR-IA-pfv.text" = "স্ক্র্যাচ কার্ড";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "p0t-0c-gJP"; */
+"p0t-0c-gJP.text" = "পাসওয়ার্ড ভুলে গেছেন";
+
+/* Class = "UILabel"; text = "N.B: Amount will be charged in BDT. 1 USD = 85 BDT (Approximately) \nDo Not need Mobile Number if you don't have Bangladesh Number"; ObjectID = "pRz-rT-bzk"; */
+"pRz-rT-bzk.text" = "এন.B: টাকা চার্জ করা হবে। 1 মার্কিন যুক্তরাষ্ট্র = 85 বিডিটি (আনুমানিক) ..আপনার কাছে বাংলাদেশ নম্বর না থাকলে মোবাইল নম্বরের প্রয়োজন নেই";
+
+/* Class = "UILabel"; text = "Expiry 10 days"; ObjectID = "ru3-c9-e4m"; */
+"ru3-c9-e4m.text" = "মেয়াদ উত্তীর্ণ 10 দিন";
+
+/* Class = "UILabel"; text = "Network Strength"; ObjectID = "s1m-AE-pAK"; */
+"s1m-AE-pAK.text" = "নেটওয়ার্ক শক্তি";
+
+/* Class = "UITextField"; placeholder = "USERNAME"; ObjectID = "s7e-Sg-7tN"; */
+"s7e-Sg-7tN.placeholder" = "ব্যবহারকারীর নাম";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "sBj-3j-Tcb"; */
+"sBj-3j-Tcb.placeholder" = "পাসওয়ার্ড নিশ্চিত করুন";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "sGu-Xf-XFk"; */
+"sGu-Xf-XFk.text" = "সংস্করণ 1.5";
+
+/* Class = "UIButton"; normalTitle = "START"; ObjectID = "sJ7-1N-6pW"; */
+"sJ7-1N-6pW.normalTitle" = "সূচনা";
+
+/* Class = "UILabel"; text = "Server"; ObjectID = "sPt-hD-bU1"; */
+"sPt-hD-bU1.text" = "সার্ভার";
+
+/* Class = "UILabel"; text = "Buy Premimum for unlocking all features"; ObjectID = "tQx-nO-Ton"; */
+"tQx-nO-Ton.text" = "সমস্ত বৈশিষ্ট্য আনলক করার জন্য প্রিমিয়াম কিনুন";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "ujH-Ly-Xpr"; */
+"ujH-Ly-Xpr.title" = "সম্পন্ন";
+
+/* Class = "UITextField"; placeholder = "Search Server"; ObjectID = "ukw-cM-WLw"; */
+"ukw-cM-WLw.placeholder" = "সম্পন্ন";
+
+/* Class = "UIButton"; normalTitle = "START"; ObjectID = "uzz-nj-EGk"; */
+"uzz-nj-EGk.normalTitle" = "সূচনা";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "vRW-LS-5Pz"; */
+"vRW-LS-5Pz.normalTitle" = "গোপনীয়তা নীতি";
+
+/* Class = "UILabel"; text = "Enter the registered email address"; ObjectID = "vm9-La-Ieg"; */
+"vm9-La-Ieg.text" = "নিবন্ধিত ইমেল ঠিকানা লিখুন";
+
+/* Class = "UILabel"; text = "My Account"; ObjectID = "IXI-nY-qlu"; */
+"IXI-nY-qlu.text" = "আমার অ্যাকাউন্ট";
+
+/* Class = "UIButton"; normalTitle = "Refund Policy"; ObjectID = "wAu-Su-igL"; */
+"wAu-Su-igL.normalTitle" = "রিফান্ড পলিসি";
+
+/* Class = "UILabel"; text = "My Account"; ObjectID = "ypw-WY-dsj"; */
+"ypw-WY-dsj.text" = "আমার অ্যাকাউন্ট";
+
+/* Class = "UILabel"; text = "Version 1.5"; ObjectID = "zPz-IZ-WrD"; */
+"zPz-IZ-WrD.text" = "সংস্করণ 1.5";
+
+/* Class = "UILabel"; text = "N/A"; ObjectID = "zdK-VQ-acO"; */
+"zdK-VQ-acO.text" = "এন/এ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zgS-lX-uqA"; */
+"zgS-lX-uqA.text" = "লেবেল";
+
+/* Class = "UILabel"; text = "Server Load"; ObjectID = "zx3-F0-ufa"; */
+"zx3-F0-ufa.text" = "সার্ভার লোড";
+
+/* Class = "UILabel"; text = "Device"; ObjectID = "8Nl-hs-yub"; */
+"8Nl-hs-yub.text" = "যন্ত্র";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kgd-6j-bZ5"; */
+"kgd-6j-bZ5.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "RJN-8A-o04"; */
+"RJN-8A-o04.normalTitle" = "";
+
+/* Class = "UILabel"; text = "Device added by you"; ObjectID = "VSh-Vf-hgU"; */
+"VSh-Vf-hgU.text" = "আপনার দ্বারা যোগ করা ডিভাইস";
+
+/* Class = "UILabel"; text = "No device found"; ObjectID = "jTw-JA-Znq"; */
+"jTw-JA-Znq.text" = "কোনো ডিভাইস পাওয়া যায়নি";
+
+/* Class = "UILabel"; text = "VPN Disconnected"; ObjectID = "9X0-XG-tFp"; */
+"9X0-XG-tFp.text" = "ভিপিএন সংযোগ বিচ্ছিন্ন";
+
+/* Class = "UILabel"; text = "Ping"; ObjectID = "lZ5-ED-0OU"; */
+"lZ5-ED-0OU.text" = "পিং";
+
+/* Class = "UILabel"; text = "Download"; ObjectID = "WrE-ih-mgE"; */
+"WrE-ih-mgE.text" = "ডাউনলোড";
+
+/* Class = "UILabel"; text = "Upload"; ObjectID = "fAv-q3-Lg5"; */
+"fAv-q3-Lg5.text" = "আপলোড";
+
+/* Class = "UILabel"; text = "Pay for best"; ObjectID = "Gp8-Dj-t4u"; */
+"Gp8-Dj-t4u.text" = "সেরা জন্য অর্থ প্রদান";
+
+/* Class = "UILabel"; text = "Account Information"; ObjectID = "sKM-98-zws"; */
+"sKM-98-zws.text" = "হিসাবের তথ্য";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "q0T-z5-KoZ"; */
+"q0T-z5-KoZ.text" = "ইমেইল";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "WJy-gj-7uZ"; */
+"WJy-gj-7uZ.text" = "পাসওয়ার্ড";
+
+/* Class = "UILabel"; text = "Unlock all features"; ObjectID = "eSc-aO-Lqh"; */
+"eSc-aO-Lqh.text" = "সমস্ত বৈশিষ্ট্য আনলক করুন";
+
+/* Class = "UILabel"; text = "BUY PREMIUM"; ObjectID = "1rC-tt-DfG"; */
+"1rC-tt-DfG.text" = "প্রিমিয়াম কিনুন";
+
+/* Class = "UILabel"; text = "Expired on"; ObjectID = "rZS-tY-gRV"; */
+"rZS-tY-gRV.text" = "মেয়াদ শেষ";
+
+/* Class = "UILabel"; text = "Support"; ObjectID = "eij-72-Xep"; */
+"eij-72-Xep.text" = "সমর্থন";
+
+/* Class = "UILabel"; text = "Live Support Team"; ObjectID = "adZ-x6-h6l"; */
+"adZ-x6-h6l.text" = "লাইভ সাপোর্ট টিম";
+
+/* Class = "UILabel"; text = "Unlock All Premium Features"; ObjectID = "YI0-dz-Odj"; */
+"YI0-dz-Odj.text" = "সমস্ত প্রিমিয়াম বৈশিষ্ট্য আনলক করুন";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "i0c-aX-Uab"; */
+"i0c-aX-Uab.normalTitle" = "সম্পন্ন";
+
+/* Class = "UILabel"; text = "My Wallet"; ObjectID = "EYb-Pb-ni0"; */
+"EYb-Pb-ni0.text" = "আমার মানিব্যাগ";
+
+/* Class = "UILabel"; text = "My Wallet"; ObjectID = "qxd-8Z-wSu"; */
+"qxd-8Z-wSu.text" = "আমার মানিব্যাগ";
+
+/* Class = "UIButton"; normalTitle = "Withdraw Your Balance"; ObjectID = "uc8-5V-0oR"; */
+"uc8-5V-0oR.normalTitle" = "আপনার ব্যালেন্স প্রত্যাহার করুন";
+
+/* Class = "UILabel"; text = "Redeem Your Code"; ObjectID = "ytb-gX-Sef"; */
+"ytb-gX-Sef.text" = "আপনার কোড খালাস";
+
+/* Class = "UITextField"; placeholder = "Enter Referral Code"; ObjectID = "Fgr-pB-oWu"; */
+"Fgr-pB-oWu.placeholder" = "রেফারেল কোড লিখুন";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "K1s-DZ-fZr"; */
+"K1s-DZ-fZr.normalTitle" = "আবেদন করুন";
+
+/* Class = "UILabel"; text = "Your Referral Code"; ObjectID = "LPk-oO-8a0"; */
+"LPk-oO-8a0.text" = "আপনার রেফারেল কোড";
+
+/* Class = "UILabel"; text = "Packages"; ObjectID = "oVR-GK-BAY"; */
+"oVR-GK-BAY.text" = "প্যাকেজ";
+
+/* Class = "UILabel"; text = "You"; ObjectID = "U0l-Dm-B5s"; */
+"U0l-Dm-B5s.text" = "আপনি";
+
+/* Class = "UILabel"; text = "Your Friend"; ObjectID = "MTy-uj-Af5"; */
+"MTy-uj-Af5.text" = "তোমার বন্ধু";
+
+/* Class = "UILabel"; text = "How does It Work?"; ObjectID = "Wyq-ae-sjf"; */
+"Wyq-ae-sjf.text" = "এটা কিভাবে কাজ করে?";
+
+/* Class = "UILabel"; text = "Refer your friend through your Symlex VPN account"; ObjectID = "Pw7-S9-gxk"; */
+"Pw7-S9-gxk.text" = "আপনার Symlex VPN অ্যাকাউন্টের মাধ্যমে আপনার বন্ধুকে রেফার করুন";
+
+/* Class = "UILabel"; text = "Your friend signs up and redeems your code in their wallet"; ObjectID = "yRI-2d-esB"; */
+"yRI-2d-esB.text" = "আপনার বন্ধু সাইন আপ করে এবং তাদের ওয়ালেটে আপনার কোড রিডিম করে";
+
+/* Class = "UILabel"; text = "Your friend purchases a premium subscription"; ObjectID = "pNh-Gh-pqj"; */
+"pNh-Gh-pqj.text" = "আপনার বন্ধু প্রিমিয়াম সদস্যতা ক্রয়";
+
+/* Class = "UILabel"; text = "You and your friends get rewards in the respective accounts"; ObjectID = "mb4-jd-rS6"; */
+"mb4-jd-rS6.text" = "আপনি এবং আপনার বন্ধুরা নিজ নিজ অ্যাকাউন্টে পুরষ্কার পাবেন";
+
+/* Class = "UILabel"; text = "Statements"; ObjectID = "Dm9-9t-fBc"; */
+"Dm9-9t-fBc.text" = "বিবৃতি";
+
+/* Class = "UILabel"; text = "Withdraw"; ObjectID = "Z4v-2N-7P4"; */
+"Z4v-2N-7P4.text" = "প্রত্যাহার করুন";
+
+/* Class = "UILabel"; text = "Payment Method"; ObjectID = "FuV-xg-BoI"; */
+"FuV-xg-BoI.text" = "মূল্যপরিশোধ পদ্ধতি";
+
+/* Class = "UILabel"; text = "Personal Information"; ObjectID = "cSg-Ai-gtL"; */
+"cSg-Ai-gtL.text" = "ব্যক্তিগত তথ্য";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "Kt5-vr-40a"; */
+"Kt5-vr-40a.placeholder" = "নাম";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "ewh-Dg-vbf"; */
+"ewh-Dg-vbf.placeholder" = "ঠিকানা";
+
+/* Class = "UILabel"; text = "Code"; ObjectID = "Rb1-hP-gsO"; */
+"Rb1-hP-gsO.text" = "কোড";
+
+/* Class = "UITextField"; placeholder = "Contact Number"; ObjectID = "NbE-rS-kus"; */
+"NbE-rS-kus.placeholder" = "যোগাযোগের নম্বর";
+
+/* Class = "UILabel"; text = "BKash Details"; ObjectID = "74D-m2-4Yu"; */
+"74D-m2-4Yu.text" = "বিকাশের বিস্তারিত";
+
+/* Class = "UITextField"; placeholder = "Number"; ObjectID = "zzE-ol-Xts"; */
+"zzE-ol-Xts.placeholder" = "সংখ্যা";
+
+/* Class = "UILabel"; text = "PayPal Details"; ObjectID = "Rqd-uS-bR3"; */
+"Rqd-uS-bR3.text" = "পেপ্যাল ​​বিবরণ";
+
+/* Class = "UITextField"; placeholder = "PayPal Email"; ObjectID = "NXu-yP-sbn"; */
+"NXu-yP-sbn.placeholder" = "PayPal এর ইমেইল";
+
+/* Class = "UILabel"; text = "Bank Details"; ObjectID = "0H4-Ea-4TU"; */
+"0H4-Ea-4TU.text" = "ব্যাংক বিবরণ";
+
+/* Class = "UITextField"; placeholder = "Bank Name"; ObjectID = "LZN-yX-sED"; */
+"LZN-yX-sED.placeholder" = "ব্যাংকের নাম";
+
+/* Class = "UITextField"; placeholder = "Account Name"; ObjectID = "OsC-yU-qPw"; */
+"OsC-yU-qPw.placeholder" = "হিসাবের নাম";
+
+/* Class = "UITextField"; placeholder = "Account Number"; ObjectID = "bCW-gL-M11"; */
+"bCW-gL-M11.placeholder" = "হিসাব নাম্বার";
+
+/* Class = "UITextField"; placeholder = "Branch Address/Code"; ObjectID = "E8E-H5-IsM"; */
+"E8E-H5-IsM.placeholder" = "শাখার ঠিকানা/কোড";
+
+/* Class = "UITextField"; placeholder = "Swift Code/IBAN Number"; ObjectID = "usq-7I-8oD"; */
+"usq-7I-8oD.placeholder" = "সুইফট কোড/আইবিএএন নম্বর";
+
+/* Class = "UILabel"; text = "Withdrawal Amount"; ObjectID = "cgl-LM-hmx"; */
+"cgl-LM-hmx.text" = "তোলা টাকার পরিমান";
+
+/* Class = "UITextField"; placeholder = "Amount"; ObjectID = "6vK-P3-WWH"; */
+"6vK-P3-WWH.placeholder" = "পরিমাণ";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "sSK-8M-R5C"; */
+"sSK-8M-R5C.normalTitle" = "জমা দিন";
+
+/* Class = "UILabel"; text = "Delete Account"; ObjectID = "r0Q-gy-kcf"; */
+"r0Q-gy-kcf.text" = "হিসাব মুছে ফেলা";
+
+/* Class = "UILabel"; text = "Delete your account permanently"; ObjectID = "Fwr-Xf-ZNz"; */
+"Fwr-Xf-ZNz.text" = "স্থায়ীভাবে আপনার অ্যাকাউন্ট মুছুন";
+
+/* Class = "UILabel"; text = "Refer & Earn"; ObjectID = "22k-6b-DwH"; */
+"22k-6b-DwH.text" = "সুপারিশ এবং উপার্জন করুন";
+
+/* Class = "UILabel"; text = "Platform Name"; ObjectID = "WMp-ug-09q"; */
+"WMp-ug-09q.text" = "প্ল্যাটফর্মের নাম";
